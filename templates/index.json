@@ -52,6 +52,7 @@
           "type": "slide",
           "settings": {
             "color_scheme": "scheme-1",
+            "background": "shopify://shop_images/DJ4-Home-Banner-2.png",
             "image_overlay_opacity": 0,
             "content_position": "middle-left",
             "text_alignment": "center",
