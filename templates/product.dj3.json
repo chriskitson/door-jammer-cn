@@ -454,6 +454,48 @@
         "divider_width": "fixed"
       }
     },
+    "rich_text_F8cUza": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_LYBXFR": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "hd1",
+            "heading_highlight_style": "none"
+          }
+        },
+        "text_zWp6hD": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_size": "text-base"
+          }
+        },
+        "button_jK8b6q": {
+          "type": "button",
+          "settings": {
+            "button_label": "Find out more",
+            "button_link": "shopify://pages/how-to-use",
+            "button_style": "btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "heading_LYBXFR",
+        "text_zWp6hD",
+        "button_jK8b6q"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "color_scheme": "",
+        "content_alignment": "center",
+        "padding_top": 0,
+        "padding_bottom": 60,
+        "show_section_divider": false,
+        "divider_width": "fixed"
+      }
+    },
     "collapsible_tabs_phAkEE": {
       "type": "collapsible-tabs",
       "blocks": {
@@ -508,6 +550,7 @@
         "collapsible_item_aKpRFm",
         "collapsible_item_3c4PkF"
       ],
+      "disabled": true,
       "settings": {
         "container": "narrow",
         "color_scheme": "",
@@ -609,6 +652,7 @@
         "text_WiAYMn",
         "html_4bNp7y"
       ],
+      "disabled": true,
       "settings": {
         "color_scheme": "scheme-6",
         "vertical_alignment": "center",
@@ -623,50 +667,28 @@
         "divider_layout": "vertical"
       }
     },
-    "video_with_text_rRVqrq": {
-      "type": "video-with-text",
-      "blocks": {
-        "subheading_MCECPj": {
-          "type": "subheading",
-          "settings": {
-            "subheading": "Add a tagline"
-          }
-        },
-        "heading_kpxn8L": {
-          "type": "heading",
-          "settings": {
-            "heading": "Talk about your brand",
-            "heading_size": "h1",
-            "heading_highlight_style": "none"
-          }
-        },
-        "text_UVPHCm": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Pair text with an video to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "text_size": "text-lg"
-          }
-        }
-      },
-      "block_order": [
-        "subheading_MCECPj",
-        "heading_kpxn8L",
-        "text_UVPHCm"
-      ],
+    "recently_viewed_products_QiratF": {
+      "type": "recently-viewed-products",
+      "name": "t:sections.recently-viewed-products.name",
       "settings": {
         "color_scheme": "",
-        "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-        "video_ratio": "1/1",
+        "heading": "Recently viewed products",
+        "heading_size": "h1",
+        "heading_highlight_style": "none",
+        "subheading": "",
         "description": "",
-        "enable_video_autoplay": true,
-        "enable_video_looping": true,
-        "video_placement": "first",
-        "enable_parallax": false,
-        "parallax_direction": "vertical",
-        "text_alignment": "center",
-        "padding_top": 100,
-        "padding_bottom": 100,
-        "show_section_divider": false,
+        "limit": 2,
+        "columns": 2,
+        "column_gap": "extra-large",
+        "row_gap": "extra-large",
+        "enable_slider": true,
+        "controls_position": "inside",
+        "pcard_image_ratio": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 50,
+        "padding_bottom": 50,
+        "show_section_divider": true,
         "divider_width": "fixed"
       }
     },
@@ -703,9 +725,10 @@
     "rich_text_7rBwdd",
     "image_with_text_MgddA8",
     "multicolumn_Mxt4d3",
+    "rich_text_F8cUza",
     "collapsible_tabs_phAkEE",
     "scrolling_promotion_WAekUk",
-    "video_with_text_rRVqrq",
+    "recently_viewed_products_QiratF",
     "related-products"
   ]
 }
