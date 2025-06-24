@@ -260,7 +260,7 @@
           "settings": {
             "text": "AS SEEN ON",
             "text_link": "",
-            "text_size": "h2",
+            "text_size": "h3",
             "font_weight": "font-heading",
             "font_style": "normal",
             "letter_spacing": 0,
