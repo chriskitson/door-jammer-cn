@@ -199,12 +199,13 @@
         "column_GWRKtG": {
           "type": "column",
           "settings": {
-            "image_width": "medium",
-            "title": "Column",
+            "image": "shopify://shop_images/DJ3-how-to-use-img-2-2025_d3cc5396-2282-4680-8eb6-4824521a794e.png",
+            "image_width": "full",
+            "title": "2",
             "heading_size": "h4",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "text": "<p>Twist the screwclockwise to extend the foot until it is firm against the floor</p>",
             "text_size": "text-base",
-            "button_label": "Button label",
+            "button_label": "",
             "button_style": "btn--underline",
             "button_link": "",
             "mobile_layout": "inherit"
