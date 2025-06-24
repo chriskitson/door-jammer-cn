@@ -128,12 +128,135 @@
       "settings": {
         "text_alignment": "center"
       }
+    },
+    "video_with_text_EgcXLA": {
+      "type": "video-with-text",
+      "blocks": {
+        "subheading_qxHLPJ": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "The Original Door Security Device"
+          }
+        },
+        "heading_Xetb4D": {
+          "type": "heading",
+          "settings": {
+            "heading": "EST. 2013",
+            "heading_size": "h1",
+            "heading_highlight_style": "none"
+          }
+        },
+        "text_XNk7pM": {
+          "type": "text",
+          "settings": {
+            "text": "<p>DoorJammer was the first portable door security device of its kind. It's certified, proven and patented design continues to outperform, creating genuine peace of mind and added security for customer. </p><p>Today, we have sold over 750,000 DoorJammer worldwide, empowering travellers, enhancing home security and protecting students and schools.</p>",
+            "text_size": "text-base"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_qxHLPJ",
+        "heading_Xetb4D",
+        "text_XNk7pM"
+      ],
+      "name": "t:sections.video-with-text.name",
+      "settings": {
+        "color_scheme": "scheme-3",
+        "video": "shopify://files/videos/Untitled design (1).mp4",
+        "video_url": "https://www.youtube.com/watch?v=6irfIQp8tp4&t=28s",
+        "video_ratio": "adapt",
+        "description": "",
+        "enable_video_autoplay": false,
+        "enable_video_looping": false,
+        "video_placement": "first",
+        "enable_parallax": false,
+        "parallax_direction": "vertical",
+        "text_alignment": "left",
+        "padding_top": 50,
+        "padding_bottom": 50,
+        "show_section_divider": false,
+        "divider_width": "fixed"
+      }
+    },
+    "multicolumn_jy8VPp": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_LyVRhm": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/DJ3-how-to-use-img-1-2025_640f2a6a-7a78-4493-a41b-7041a520e965.png",
+            "image_width": "full",
+            "title": "1",
+            "heading_size": "h4",
+            "text": "<p>Insert the flat part of DoorJammer all the way under the door directly beneath the handle or where the handle would be</p>",
+            "text_size": "text-base",
+            "button_label": "",
+            "button_style": "btn--underline",
+            "button_link": "",
+            "mobile_layout": "inherit"
+          }
+        },
+        "column_GWRKtG": {
+          "type": "column",
+          "settings": {
+            "image_width": "medium",
+            "title": "Column",
+            "heading_size": "h4",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "text_size": "text-base",
+            "button_label": "Button label",
+            "button_style": "btn--underline",
+            "button_link": "",
+            "mobile_layout": "inherit"
+          }
+        },
+        "column_Y4Da9U": {
+          "type": "column",
+          "settings": {
+            "image_width": "medium",
+            "title": "Column",
+            "heading_size": "h4",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "text_size": "text-base",
+            "button_label": "Button label",
+            "button_style": "btn--underline",
+            "button_link": "",
+            "mobile_layout": "inherit"
+          }
+        }
+      },
+      "block_order": [
+        "column_LyVRhm",
+        "column_GWRKtG",
+        "column_Y4Da9U"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "color_scheme": "",
+        "heading": "<a href=\"/pages/how-to-use\" target=\"_blank\" title=\"How to use\"><strong>How To Use</strong></a>",
+        "heading_size": "h2",
+        "heading_highlight_style": "none",
+        "subheading": "",
+        "description": "",
+        "text_size": "text-base",
+        "column_alignment": "center",
+        "columns_desktop": 3,
+        "column_gap": "extra-large",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 26,
+        "padding_bottom": 50,
+        "show_section_divider": false,
+        "divider_width": "fixed"
+      }
     }
   },
   "order": [
     "banner",
     "product-grid",
     "feature_list_yJemdQ",
-    "breadcrumbs_Gxg9wp"
+    "breadcrumbs_Gxg9wp",
+    "video_with_text_EgcXLA",
+    "multicolumn_jy8VPp"
   ]
 }
