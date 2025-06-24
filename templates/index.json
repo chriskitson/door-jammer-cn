@@ -312,6 +312,7 @@
         "image_WQLRBj": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/in-the-know-SQ.png",
             "image_height": 92,
             "image_rounded": true,
             "image_link": "",
@@ -321,6 +322,7 @@
         "image_p6c9Fb": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/best-products-SQ.png",
             "image_height": 80,
             "image_rounded": true,
             "image_link": "",
@@ -330,6 +332,7 @@
         "image_i3axe6": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/dragons-den-SQ.png",
             "image_height": 80,
             "image_rounded": true,
             "image_link": "",
@@ -339,6 +342,7 @@
         "image_rMjhMM": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/good-good-SQ.png",
             "image_height": 80,
             "image_rounded": true,
             "image_link": "",
@@ -348,6 +352,7 @@
         "image_9EAm3A": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/megyn-kelly-SQ.png",
             "image_height": 80,
             "image_rounded": true,
             "image_link": "",
@@ -357,6 +362,7 @@
         "image_jMRmem": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/genius-club-SQ.png",
             "image_height": 80,
             "image_rounded": true,
             "image_link": "",
@@ -366,6 +372,7 @@
         "image_DETiEj": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/viral-trend-SQ.png",
             "image_height": 80,
             "image_rounded": true,
             "image_link": "",
@@ -375,6 +382,7 @@
         "image_ChgfPM": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/Mornig-Live-SQ.png",
             "image_height": 80,
             "image_rounded": true,
             "image_link": "",
@@ -452,6 +460,7 @@
       ],
       "settings": {
         "color_scheme": "",
+        "image": "shopify://shop_images/Compare-1.jpg",
         "heading": "",
         "heading_size": "h1",
         "heading_highlight_style": "none",
@@ -469,6 +478,7 @@
         "column_6be7nJ": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/DJ3-how-to-use-img-1-2025.png",
             "image_width": "full",
             "title": "1",
             "heading_size": "h4",
@@ -483,6 +493,7 @@
         "column_m4RcYP": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/DJ3-how-to-use-img-2-2025.png",
             "image_width": "full",
             "title": "2",
             "heading_size": "h4",
