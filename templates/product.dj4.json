@@ -335,221 +335,6 @@
         "divider_width": "fixed"
       }
     },
-    "image_with_text_MgddA8": {
-      "type": "image-with-text",
-      "blocks": {
-        "subheading_XLgqVJ": {
-          "type": "subheading",
-          "settings": {
-            "subheading": "Add a tagline"
-          }
-        },
-        "heading_J7mctK": {
-          "type": "heading",
-          "settings": {
-            "heading": "Talk about your brand",
-            "heading_size": "h1",
-            "heading_highlight_style": "none"
-          }
-        },
-        "text_A3Dahr": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "text_size": "text-lg"
-          }
-        }
-      },
-      "block_order": [
-        "subheading_XLgqVJ",
-        "heading_J7mctK",
-        "text_A3Dahr"
-      ],
-      "settings": {
-        "section_color_scheme": "",
-        "color_scheme": "scheme-2",
-        "image_height": "adapt",
-        "layout": "text_first",
-        "desktop_content_position": "center",
-        "desktop_content_alignment": "center",
-        "enable_parallax": false,
-        "parallax_direction": "vertical",
-        "mobile_content_alignment": "left",
-        "padding_top": 100,
-        "padding_bottom": 0,
-        "show_section_divider": false,
-        "divider_width": "fixed"
-      }
-    },
-    "collapsible_tabs_phAkEE": {
-      "type": "collapsible-tabs",
-      "blocks": {
-        "collapsible_item_eFemDY": {
-          "type": "collapsible_item",
-          "settings": {
-            "icon": "none",
-            "heading": "Collapsible tab heading",
-            "content": "<p>Fill in the text content of the collapsible item here. You can provide details and explanation for the question here.</p>",
-            "custom_liquid": "",
-            "page": "",
-            "open": true
-          }
-        },
-        "collapsible_item_RQ3WzW": {
-          "type": "collapsible_item",
-          "settings": {
-            "icon": "none",
-            "heading": "Collapsible tab heading",
-            "content": "<p>Fill in the text content of the collapsible item here. You can provide details and explanation for the question here.</p>",
-            "custom_liquid": "",
-            "page": "",
-            "open": false
-          }
-        },
-        "collapsible_item_aKpRFm": {
-          "type": "collapsible_item",
-          "settings": {
-            "icon": "none",
-            "heading": "Collapsible tab heading",
-            "content": "<p>Fill in the text content of the collapsible item here. You can provide details and explanation for the question here.</p>",
-            "custom_liquid": "",
-            "page": "",
-            "open": false
-          }
-        },
-        "collapsible_item_3c4PkF": {
-          "type": "collapsible_item",
-          "settings": {
-            "icon": "none",
-            "heading": "Collapsible tab heading",
-            "content": "<p>Fill in the text content of the collapsible item here. You can provide details and explanation for the question here.</p>",
-            "custom_liquid": "",
-            "page": "",
-            "open": false
-          }
-        }
-      },
-      "block_order": [
-        "collapsible_item_eFemDY",
-        "collapsible_item_RQ3WzW",
-        "collapsible_item_aKpRFm",
-        "collapsible_item_3c4PkF"
-      ],
-      "settings": {
-        "container": "narrow",
-        "color_scheme": "",
-        "header_layout": "vertical",
-        "heading": "Collapsible tabs",
-        "heading_size": "h1",
-        "heading_highlight_style": "none",
-        "subheading": "",
-        "description": "",
-        "text_size": "text-base",
-        "button_label": "",
-        "button_link": "",
-        "button_style": "btn--primary",
-        "column_gap": "large",
-        "row_gap": "inherit",
-        "item_style": "standard",
-        "item_color_scheme": "",
-        "item_heading_font": "heading",
-        "item_heading_size": "h4",
-        "item_icon_size": "extra-large",
-        "padding_top": 96,
-        "padding_bottom": 100,
-        "show_section_divider": true,
-        "divider_width": "fixed"
-      }
-    },
-    "scrolling_promotion_WAekUk": {
-      "type": "scrolling-promotion",
-      "blocks": {
-        "text_P4JyaD": {
-          "type": "text",
-          "settings": {
-            "text": "Tell customers about a promotion",
-            "text_link": "",
-            "text_size": "h1",
-            "font_weight": "font-heading",
-            "font_style": "normal",
-            "letter_spacing": 0,
-            "text_opacity": 100,
-            "text_style": "normal",
-            "use_custom_color": false,
-            "custom_color": "#000000"
-          }
-        },
-        "html_XAthVt": {
-          "type": "html",
-          "settings": {
-            "html": "<div class=\"flex items-center\"><div style=\"display: block;width: 6.4rem;height: 1px; background: #000\"> </div></div>"
-          }
-        },
-        "text_QpjN3F": {
-          "type": "text",
-          "settings": {
-            "text": "Tell customers about a promotion",
-            "text_link": "",
-            "text_size": "h1",
-            "font_weight": "font-heading",
-            "font_style": "normal",
-            "letter_spacing": 0,
-            "text_opacity": 100,
-            "text_style": "normal",
-            "use_custom_color": false,
-            "custom_color": "#000000"
-          }
-        },
-        "html_ADnizU": {
-          "type": "html",
-          "settings": {
-            "html": "<div class=\"flex items-center\"><div style=\"display: block;width: 6.4rem;height: 1px; background: #000\"> </div></div>"
-          }
-        },
-        "text_WiAYMn": {
-          "type": "text",
-          "settings": {
-            "text": "Tell customers about a promotion",
-            "text_link": "",
-            "text_size": "h1",
-            "font_weight": "font-heading",
-            "font_style": "normal",
-            "letter_spacing": 0,
-            "text_opacity": 100,
-            "text_style": "normal",
-            "use_custom_color": false,
-            "custom_color": "#000000"
-          }
-        },
-        "html_4bNp7y": {
-          "type": "html",
-          "settings": {
-            "html": "<div class=\"flex items-center\"><div style=\"display: block;width: 6.4rem;height: 1px; background: #000\"> </div></div>"
-          }
-        }
-      },
-      "block_order": [
-        "text_P4JyaD",
-        "html_XAthVt",
-        "text_QpjN3F",
-        "html_ADnizU",
-        "text_WiAYMn",
-        "html_4bNp7y"
-      ],
-      "settings": {
-        "color_scheme": "scheme-6",
-        "vertical_alignment": "center",
-        "direction": "left",
-        "pause_on_hover": true,
-        "speed": 0.5,
-        "h_spacing": 30,
-        "v_spacing": 0,
-        "padding_top": 40,
-        "padding_bottom": 40,
-        "show_divider": false,
-        "divider_layout": "vertical"
-      }
-    },
     "related-products": {
       "type": "related-products",
       "settings": {
@@ -573,6 +358,56 @@
         "show_section_divider": false,
         "divider_width": "fixed"
       }
+    },
+    "rich_text_fhahEG": {
+      "type": "rich-text",
+      "blocks": {
+        "button_ibPEjh": {
+          "type": "button",
+          "settings": {
+            "button_label": "Find Out More",
+            "button_link": "shopify://pages/how-to-use",
+            "button_style": "btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "button_ibPEjh"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "color_scheme": "",
+        "content_alignment": "center",
+        "padding_top": 50,
+        "padding_bottom": 50,
+        "show_section_divider": false,
+        "divider_width": "fixed"
+      }
+    },
+    "recently_viewed_products_xHX3Va": {
+      "type": "recently-viewed-products",
+      "name": "t:sections.recently-viewed-products.name",
+      "settings": {
+        "color_scheme": "",
+        "heading": "Recently viewed products",
+        "heading_size": "h1",
+        "heading_highlight_style": "none",
+        "subheading": "",
+        "description": "",
+        "limit": 8,
+        "columns": 4,
+        "column_gap": "medium",
+        "row_gap": "inherit",
+        "enable_slider": true,
+        "controls_position": "inside",
+        "pcard_image_ratio": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 50,
+        "padding_bottom": 50,
+        "show_section_divider": false,
+        "divider_width": "fixed"
+      }
     }
   },
   "order": [
@@ -581,9 +416,8 @@
     "feature_list_cW3d9c",
     "video_with_text_rRVqrq",
     "multicolumn_Mxt4d3",
-    "image_with_text_MgddA8",
-    "collapsible_tabs_phAkEE",
-    "scrolling_promotion_WAekUk",
-    "related-products"
+    "related-products",
+    "rich_text_fhahEG",
+    "recently_viewed_products_xHX3Va"
   ]
 }
