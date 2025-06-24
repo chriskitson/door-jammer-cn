@@ -110,19 +110,9 @@
         "collapsible-row-2": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Collapsible tab heading",
-            "icon": "none",
-            "content": "<p>Fill in the text content of the collapsible item here. You can provide details and explanation for the question here.</p>",
-            "page": "",
-            "default_open": false
-          }
-        },
-        "collapsible-row-3": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Collapsible tab heading",
-            "icon": "none",
-            "content": "<p>Fill in the text content of the collapsible item here. You can provide details and explanation for the question here.</p>",
+            "heading": "Included In Box",
+            "icon": "package",
+            "content": "<p>{{ product.metafields.custom.included_in_box | metafield_tag }}</p>",
             "page": "",
             "default_open": false
           }
@@ -148,7 +138,6 @@
         "complementary",
         "collapsible-row-1",
         "collapsible-row-2",
-        "collapsible-row-3",
         "addons"
       ],
       "settings": {
@@ -163,109 +152,16 @@
         "padding_bottom": 100
       }
     },
-    "testimonials_8JHr3L": {
-      "type": "testimonials",
-      "blocks": {
-        "testimonial_dhi3Xf": {
-          "type": "testimonial",
-          "settings": {
-            "text": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.</p>",
-            "author": "Author's name",
-            "bio": "",
-            "product": "",
-            "icon": "none"
-          }
-        },
-        "testimonial_D7Mq7i": {
-          "type": "testimonial",
-          "settings": {
-            "text": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.</p>",
-            "author": "Author's name",
-            "bio": "",
-            "product": "",
-            "icon": "none"
-          }
-        },
-        "testimonial_33tAjm": {
-          "type": "testimonial",
-          "settings": {
-            "text": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.</p>",
-            "author": "Author's name",
-            "bio": "",
-            "product": "",
-            "icon": "none"
-          }
-        },
-        "testimonial_dDRMwy": {
-          "type": "testimonial",
-          "settings": {
-            "text": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.</p>",
-            "author": "Author's name",
-            "bio": "",
-            "product": "",
-            "icon": "none"
-          }
-        },
-        "testimonial_RgfDDw": {
-          "type": "testimonial",
-          "settings": {
-            "text": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.</p>",
-            "author": "Author's name",
-            "bio": "",
-            "product": "",
-            "icon": "none"
-          }
-        },
-        "testimonial_abi6JN": {
-          "type": "testimonial",
-          "settings": {
-            "text": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.</p>",
-            "author": "Author's name",
-            "bio": "",
-            "product": "",
-            "icon": "none"
-          }
-        }
-      },
-      "block_order": [
-        "testimonial_dhi3Xf",
-        "testimonial_D7Mq7i",
-        "testimonial_33tAjm",
-        "testimonial_dDRMwy",
-        "testimonial_RgfDDw",
-        "testimonial_abi6JN"
-      ],
-      "settings": {
-        "color_scheme": "scheme-2",
-        "heading": "Testimonials",
-        "heading_size": "h2",
-        "heading_highlight_style": "none",
-        "subheading": "",
-        "description": "",
-        "text_size": "text-base",
-        "card_color_scheme": "",
-        "card_layout": "1",
-        "columns_desktop": 4,
-        "column_gap": "medium",
-        "enable_slider": true,
-        "columns_mobile": "1",
-        "swipe_on_mobile": true,
-        "padding_top": 100,
-        "padding_bottom": 100,
-        "show_section_divider": false,
-        "divider_width": "fixed"
-      }
-    },
     "feature_list_cW3d9c": {
       "type": "feature-list",
       "blocks": {
         "feature_item_VbCwL3": {
           "type": "feature_item",
           "settings": {
-            "color_scheme": "",
+            "color_scheme": "scheme-1",
             "icon": "check",
-            "icon_style": "btn--secondary",
-            "text": "Feature item"
+            "icon_style": "btn--primary",
+            "text": "Schools"
           }
         },
         "feature_item_NzxQGa": {
@@ -273,8 +169,8 @@
           "settings": {
             "color_scheme": "",
             "icon": "check",
-            "icon_style": "btn--secondary",
-            "text": "Feature item"
+            "icon_style": "btn--primary",
+            "text": "Public Buildings"
           }
         },
         "feature_item_yyNV9A": {
@@ -282,8 +178,8 @@
           "settings": {
             "color_scheme": "",
             "icon": "check",
-            "icon_style": "btn--secondary",
-            "text": "Feature item"
+            "icon_style": "btn--primary",
+            "text": "Offices"
           }
         },
         "feature_item_gBgLft": {
@@ -291,17 +187,8 @@
           "settings": {
             "color_scheme": "",
             "icon": "check",
-            "icon_style": "btn--secondary",
-            "text": "Feature item"
-          }
-        },
-        "feature_item_R8A8eX": {
-          "type": "feature_item",
-          "settings": {
-            "color_scheme": "",
-            "icon": "check",
-            "icon_style": "btn--secondary",
-            "text": "Feature item"
+            "icon_style": "btn--primary",
+            "text": "Businesses"
           }
         }
       },
@@ -309,11 +196,10 @@
         "feature_item_VbCwL3",
         "feature_item_NzxQGa",
         "feature_item_yyNV9A",
-        "feature_item_gBgLft",
-        "feature_item_R8A8eX"
+        "feature_item_gBgLft"
       ],
       "settings": {
-        "color_scheme": "scheme-7",
+        "color_scheme": "scheme-3",
         "subheading": "",
         "heading": "",
         "heading_size": "h2",
@@ -323,8 +209,8 @@
         "item_alignment": "center",
         "icon_size": "extra-medium",
         "swipe_on_mobile": true,
-        "padding_top": 100,
-        "padding_bottom": 0,
+        "padding_top": 20,
+        "padding_bottom": 20,
         "show_section_divider": false,
         "divider_width": "fixed"
       }
@@ -728,7 +614,6 @@
   "order": [
     "breadcrumbs",
     "main",
-    "testimonials_8JHr3L",
     "feature_list_cW3d9c",
     "rich_text_7rBwdd",
     "image_with_text_MgddA8",
