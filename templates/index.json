@@ -941,6 +941,7 @@
         "column_yfVhVb": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/DJ3-image-resized_c4cac8ca-9ba1-4f5f-9739-072e50e36f19.png",
             "image_width": "full",
             "title": "",
             "heading_size": "h4",
@@ -983,6 +984,7 @@
         "column_LhAJRK": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/DJ4-24_01bdcd05-f4c6-40fc-aab9-24723c1ca165.png",
             "image_width": "full",
             "title": "",
             "heading_size": "h4",
@@ -1407,6 +1409,7 @@
             "desktop_image_position": "left",
             "image_width": 50,
             "alignment": "start",
+            "image": "shopify://shop_images/Tag-Us-CTA-2021-DJ.png",
             "image_ratio": "adapt",
             "image_overlay_opacity": 0,
             "heading": "",
@@ -1474,6 +1477,7 @@
           "type": "image_card",
           "settings": {
             "color_scheme": "",
+            "image": "shopify://shop_images/DJ-being-fitted-2.png",
             "image_ratio": "adapt",
             "image_overlay_opacity": 0,
             "heading": "",
@@ -1499,6 +1503,7 @@
           "type": "image_card",
           "settings": {
             "color_scheme": "",
+            "image": "shopify://shop_images/DJ3-AMAZON-Lifestyle-5.png",
             "image_ratio": "adapt",
             "image_overlay_opacity": 0,
             "heading": "",
@@ -1524,6 +1529,7 @@
           "type": "image_card",
           "settings": {
             "color_scheme": "",
+            "image": "shopify://shop_images/DoorJammer-Door-2.png",
             "image_ratio": "adapt",
             "image_overlay_opacity": 0,
             "heading": "",
