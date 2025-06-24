@@ -508,6 +508,7 @@
         "column_bRpkxq": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/DJ3-how-to-use-img-3-2025.png",
             "image_width": "full",
             "title": "3",
             "heading_size": "h4",
@@ -872,6 +873,7 @@
       "settings": {
         "section_color_scheme": "",
         "color_scheme": "scheme-d3c4c0a8-8008-4fbe-9cb6-8b6689dfa03c",
+        "image": "shopify://shop_images/Due-image-v2.png",
         "image_height": "adapt",
         "layout": "text_first",
         "desktop_content_position": "center",
