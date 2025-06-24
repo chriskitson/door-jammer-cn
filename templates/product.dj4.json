@@ -52,6 +52,7 @@
           "type": "variant_picker",
           "settings": {
             "picker_type": "button",
+            "button_style": "standard",
             "enable_color_swatches": true,
             "swatch_type": "color_swatch",
             "size_title": "Size",
@@ -74,9 +75,9 @@
             "title_size": "text-base",
             "icon_1": "package",
             "heading_1": "Orders over $50 ship free",
-            "icon_2": "currency-circle-dollar",
-            "heading_2": "30 day returns",
-            "icon_3": "star-four",
+            "icon_2": "star-four",
+            "heading_2": "12 month warranty",
+            "icon_3": "cloud",
             "heading_3": ""
           }
         },
@@ -99,9 +100,9 @@
         "collapsible-row-1": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Collapsible tab heading",
-            "icon": "none",
-            "content": "<p>Fill in the text content of the collapsible item here. You can provide details and explanation for the question here.</p>",
+            "heading": "Dimensions",
+            "icon": "ruler",
+            "content": "<p><strong>Height:</strong> {{ product.metafields.custom.height.value }}<br/><strong>Width:</strong> {{ product.metafields.custom.width.value }}<br/><strong>Depth: </strong>{{ product.metafields.custom.depth.value }}<br/><strong>Weight:</strong> {{ product.metafields.custom.weight.value }}<br/><strong>Space required under door: </strong>{{ product.metafields.custom.space_required_under_door.value }}</p>",
             "page": "",
             "default_open": false
           }
@@ -154,7 +155,7 @@
         "color_scheme": "scheme-1",
         "enable_sticky_info": true,
         "media_size": "large",
-        "gallery_layout": "stacked",
+        "gallery_layout": "vertical-carousel",
         "mobile_thumbnails": "hide",
         "enable_image_zoom": true,
         "enable_video_looping": true,
@@ -171,6 +172,7 @@
             "text": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.</p>",
             "author": "Author's name",
             "bio": "",
+            "product": "",
             "icon": "none"
           }
         },
@@ -180,6 +182,7 @@
             "text": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.</p>",
             "author": "Author's name",
             "bio": "",
+            "product": "",
             "icon": "none"
           }
         },
@@ -189,6 +192,7 @@
             "text": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.</p>",
             "author": "Author's name",
             "bio": "",
+            "product": "",
             "icon": "none"
           }
         },
@@ -198,6 +202,7 @@
             "text": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.</p>",
             "author": "Author's name",
             "bio": "",
+            "product": "",
             "icon": "none"
           }
         },
@@ -207,6 +212,7 @@
             "text": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.</p>",
             "author": "Author's name",
             "bio": "",
+            "product": "",
             "icon": "none"
           }
         },
@@ -216,15 +222,7 @@
             "text": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.</p>",
             "author": "Author's name",
             "bio": "",
-            "icon": "none"
-          }
-        },
-        "testimonial_FqARUL": {
-          "type": "testimonial",
-          "settings": {
-            "text": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.</p>",
-            "author": "Author's name",
-            "bio": "",
+            "product": "",
             "icon": "none"
           }
         }
@@ -241,6 +239,7 @@
         "color_scheme": "scheme-2",
         "heading": "Testimonials",
         "heading_size": "h2",
+        "heading_highlight_style": "none",
         "subheading": "",
         "description": "",
         "text_size": "text-base",
@@ -263,35 +262,45 @@
         "feature_item_VbCwL3": {
           "type": "feature_item",
           "settings": {
+            "color_scheme": "",
             "icon": "check",
+            "icon_style": "btn--secondary",
             "text": "Feature item"
           }
         },
         "feature_item_NzxQGa": {
           "type": "feature_item",
           "settings": {
+            "color_scheme": "",
             "icon": "check",
+            "icon_style": "btn--secondary",
             "text": "Feature item"
           }
         },
         "feature_item_yyNV9A": {
           "type": "feature_item",
           "settings": {
+            "color_scheme": "",
             "icon": "check",
+            "icon_style": "btn--secondary",
             "text": "Feature item"
           }
         },
         "feature_item_gBgLft": {
           "type": "feature_item",
           "settings": {
+            "color_scheme": "",
             "icon": "check",
+            "icon_style": "btn--secondary",
             "text": "Feature item"
           }
         },
         "feature_item_R8A8eX": {
           "type": "feature_item",
           "settings": {
+            "color_scheme": "",
             "icon": "check",
+            "icon_style": "btn--secondary",
             "text": "Feature item"
           }
         }
@@ -308,6 +317,7 @@
         "subheading": "",
         "heading": "",
         "heading_size": "h2",
+        "heading_highlight_style": "none",
         "description": "",
         "text_size": "text-base",
         "item_alignment": "center",
@@ -326,7 +336,8 @@
           "type": "heading",
           "settings": {
             "heading": "Talk about your brand",
-            "heading_size": "h1"
+            "heading_size": "h1",
+            "heading_highlight_style": "none"
           }
         }
       },
@@ -355,7 +366,8 @@
           "type": "heading",
           "settings": {
             "heading": "Talk about your brand",
-            "heading_size": "h1"
+            "heading_size": "h1",
+            "heading_highlight_style": "none"
           }
         },
         "text_A3Dahr": {
@@ -395,11 +407,13 @@
           "settings": {
             "image_width": "large",
             "title": "Column",
+            "heading_size": "h4",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
             "text_size": "text-base",
             "button_label": "",
             "button_style": "btn--underline",
-            "button_link": ""
+            "button_link": "",
+            "mobile_layout": "inherit"
           }
         },
         "column_6eYcFq": {
@@ -407,11 +421,13 @@
           "settings": {
             "image_width": "large",
             "title": "Column",
+            "heading_size": "h4",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
             "text_size": "text-base",
             "button_label": "",
             "button_style": "btn--underline",
-            "button_link": ""
+            "button_link": "",
+            "mobile_layout": "inherit"
           }
         },
         "column_6mMR7m": {
@@ -419,11 +435,13 @@
           "settings": {
             "image_width": "large",
             "title": "Column",
+            "heading_size": "h4",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
             "text_size": "text-base",
             "button_label": "",
             "button_style": "btn--underline",
-            "button_link": ""
+            "button_link": "",
+            "mobile_layout": "inherit"
           }
         },
         "column_Lix6qc": {
@@ -431,11 +449,13 @@
           "settings": {
             "image_width": "large",
             "title": "Column",
+            "heading_size": "h4",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
             "text_size": "text-base",
             "button_label": "",
             "button_style": "btn--underline",
-            "button_link": ""
+            "button_link": "",
+            "mobile_layout": "inherit"
           }
         }
       },
@@ -449,6 +469,7 @@
         "color_scheme": "",
         "heading": "",
         "heading_size": "h1",
+        "heading_highlight_style": "none",
         "subheading": "",
         "description": "",
         "text_size": "text-base",
@@ -523,8 +544,10 @@
         "header_layout": "vertical",
         "heading": "Collapsible tabs",
         "heading_size": "h1",
+        "heading_highlight_style": "none",
         "subheading": "",
         "description": "",
+        "text_size": "text-base",
         "button_label": "",
         "button_link": "",
         "button_style": "btn--primary",
@@ -534,6 +557,7 @@
         "item_color_scheme": "",
         "item_heading_font": "heading",
         "item_heading_size": "h4",
+        "item_icon_size": "extra-large",
         "padding_top": 96,
         "padding_bottom": 100,
         "show_section_divider": true,
@@ -552,7 +576,10 @@
             "font_weight": "font-heading",
             "font_style": "normal",
             "letter_spacing": 0,
-            "text_style": "normal"
+            "text_opacity": 100,
+            "text_style": "normal",
+            "use_custom_color": false,
+            "custom_color": "#000000"
           }
         },
         "html_XAthVt": {
@@ -570,7 +597,10 @@
             "font_weight": "font-heading",
             "font_style": "normal",
             "letter_spacing": 0,
-            "text_style": "normal"
+            "text_opacity": 100,
+            "text_style": "normal",
+            "use_custom_color": false,
+            "custom_color": "#000000"
           }
         },
         "html_ADnizU": {
@@ -588,7 +618,10 @@
             "font_weight": "font-heading",
             "font_style": "normal",
             "letter_spacing": 0,
-            "text_style": "normal"
+            "text_opacity": 100,
+            "text_style": "normal",
+            "use_custom_color": false,
+            "custom_color": "#000000"
           }
         },
         "html_4bNp7y": {
@@ -633,7 +666,8 @@
           "type": "heading",
           "settings": {
             "heading": "Talk about your brand",
-            "heading_size": "h1"
+            "heading_size": "h1",
+            "heading_highlight_style": "none"
           }
         },
         "text_UVPHCm": {
@@ -672,6 +706,7 @@
         "color_scheme": "scheme-1",
         "heading": "You may also like",
         "heading_size": "h2",
+        "heading_highlight_style": "none",
         "subheading": "",
         "description": "",
         "limit": 6,
@@ -679,6 +714,7 @@
         "column_gap": "extra-small",
         "row_gap": "inherit",
         "enable_slider": true,
+        "controls_position": "inside",
         "pcard_image_ratio": "",
         "columns_mobile": "2",
         "swipe_on_mobile": true,
