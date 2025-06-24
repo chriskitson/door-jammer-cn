@@ -196,6 +196,7 @@
         "image_DyKWHM": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/Travel-1.png",
             "image_link": "",
             "image_width": 220,
             "image_width_mobile": 110
@@ -204,14 +205,16 @@
         "image_NGQQmW": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/Schools-1.png",
             "image_link": "",
             "image_width": 220,
             "image_width_mobile": 110
           }
         },
-        "image_L7pLat": {
+        "image_NTqMwR": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/Business-1.png",
             "image_link": "",
             "image_width": 220,
             "image_width_mobile": 110
@@ -222,7 +225,7 @@
         "image_URaWGC",
         "image_DyKWHM",
         "image_NGQQmW",
-        "image_L7pLat"
+        "image_NTqMwR"
       ],
       "settings": {
         "color_scheme": "",
@@ -242,6 +245,7 @@
           "type": "featured_collection",
           "settings": {
             "collection": "personal-security-doorjammers",
+            "image": "shopify://shop_images/DJ3-image-resized.png",
             "title": "",
             "description": ""
           }
@@ -250,6 +254,7 @@
           "type": "featured_collection",
           "settings": {
             "collection": "business-industrial-security-doorjammers",
+            "image": "shopify://shop_images/DJ4-24.png",
             "title": "",
             "description": ""
           }
