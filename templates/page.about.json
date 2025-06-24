@@ -9,75 +9,17 @@
  */
 {
   "sections": {
-    "main": {
-      "type": "main-page",
-      "disabled": true,
-      "settings": {
-        "padding_top": 28,
-        "padding_bottom": 28
-      }
-    },
-    "video_hero_riEjtc": {
-      "type": "video-hero",
-      "blocks": {
-        "subheading_EhCzmF": {
-          "type": "subheading",
-          "settings": {
-            "subheading": "The Original Portable Door Lock"
-          }
-        },
-        "heading_WzGrih": {
-          "type": "heading",
-          "settings": {
-            "heading": "About DoorJammer",
-            "heading_size": "hd1",
-            "heading_highlight_style": "none"
-          }
-        },
-        "text_nYA9dW": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Scroll down for more information about us and our product range... </p>",
-            "text_size": "text-lg"
-          }
-        }
-      },
-      "block_order": [
-        "subheading_EhCzmF",
-        "heading_WzGrih",
-        "text_nYA9dW"
-      ],
-      "disabled": true,
-      "settings": {
-        "container": "full",
-        "video": "shopify://files/videos/DoorJammer Multi Vid SHORT.mp4",
-        "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-        "description": "",
-        "video_height": "large",
-        "overlay_opacity": 50,
-        "enable_parallax": false,
-        "parallax_direction": "vertical",
-        "color_scheme": "scheme-inverse",
-        "content_position": "middle-center",
-        "content_alignment": "center",
-        "video_mobile_height": "auto",
-        "padding_top": 0,
-        "padding_bottom": 0,
-        "show_section_divider": false,
-        "divider_width": "fixed"
-      }
-    },
-    "rich_text_tdy9rt": {
+    "rich_text_Mfhd8W": {
       "type": "rich-text",
       "blocks": {
-        "text_fAndUn": {
+        "text_njLqUa": {
           "type": "text",
           "settings": {
             "text": "<p><strong>The Original Portable Door Lock</strong></p>",
-            "text_size": "text-lg"
+            "text_size": "text-base"
           }
         },
-        "heading_zg6cpN": {
+        "heading_7rDUYe": {
           "type": "heading",
           "settings": {
             "heading": "About DoorJammer",
@@ -87,9 +29,10 @@
         }
       },
       "block_order": [
-        "text_fAndUn",
-        "heading_zg6cpN"
+        "text_njLqUa",
+        "heading_7rDUYe"
       ],
+      "name": "t:sections.rich-text.presets.name",
       "settings": {
         "color_scheme": "",
         "content_alignment": "center",
@@ -99,71 +42,10 @@
         "divider_width": "fixed"
       }
     },
-    "custom_content_wN3EKJ": {
-      "type": "custom-content",
-      "blocks": {
-        "image_J68fdX": {
-          "type": "image",
-          "disabled": true,
-          "settings": {
-            "width": "100%",
-            "alignment": "center",
-            "block_custom_class": ""
-          }
-        },
-        "text_DmBBtg": {
-          "type": "text",
-          "settings": {
-            "heading": "How was DoorJammer created?",
-            "heading_size": "h3",
-            "heading_highlight_style": "none",
-            "subheading": "",
-            "description": "<p>DoorJammer was invented by product designer Von Saint while on holiday in Mexico.</p><p>Necessity became the mother of invention when he discovered his hotel room's broken door lock and was then forced to hold it closed the only way he could - by wedging a chair against it.</p><p>It was this unfortunately common situation that sparked the thought: \"there must be a better solution to this problem\". Von Saint Designs then began working with the Penn Elcom Group to refine, manufacture and distribute DoorJammer all over the world.</p>",
-            "text_size": "text-base",
-            "button_label": "",
-            "button_link": "",
-            "button_style": "btn--primary",
-            "content_alignment": "left",
-            "width": "100%",
-            "alignment": "center",
-            "block_custom_class": ""
-          }
-        }
-      },
-      "block_order": [
-        "image_J68fdX",
-        "text_DmBBtg"
-      ],
-      "disabled": true,
-      "custom_css": [
-        "[data-block-type=\"image\"] {max-width: 81.2rem; margin: 0 auto -9%;}",
-        ".rich-text__heading {max-width: 74rem; margin: 0 auto;}",
-        ".custom__block--text {max-width: 81.2rem; margin: 0 auto;}",
-        "@media (max-width: 767px) {[data-block-type=\"image\"] {margin-bottom: -14%; } .rich-text__heading {max-width: 33rem; }}"
-      ],
-      "settings": {
-        "container": "fixed",
-        "color_scheme": "",
-        "enable_sticky_column": false,
-        "heading": "",
-        "heading_size": "h1",
-        "heading_highlight_style": "none",
-        "subheading": "",
-        "description": "",
-        "column_gap": "none",
-        "row_gap": "none",
-        "swipe_on_mobile": false,
-        "columns_mobile": "1",
-        "padding_top": 16,
-        "padding_bottom": 0,
-        "show_section_divider": false,
-        "divider_width": "fixed"
-      }
-    },
-    "collage_tabs_4tqYyi": {
+    "collage_tabs_n8PckJ": {
       "type": "collage-tabs",
       "blocks": {
-        "tab_TY4A3w": {
+        "tab_CeYik4": {
           "type": "tab",
           "settings": {
             "content_color_scheme": "",
@@ -181,7 +63,7 @@
             "button_style": "btn--primary"
           }
         },
-        "tab_PA6E9a": {
+        "tab_hhjFRk": {
           "type": "tab",
           "settings": {
             "content_color_scheme": "",
@@ -199,17 +81,17 @@
             "button_style": "btn--primary"
           }
         },
-        "tab_wUHL7M": {
+        "tab_h9AaU9": {
           "type": "tab",
           "settings": {
-            "content_color_scheme": "",
-            "navigation_title": "About Us",
+            "content_color_scheme": "scheme-2",
+            "navigation_title": "About us",
             "image": "shopify://shop_images/DJ-and-LD-group.png",
             "heading": "Who is DoorJammer?",
             "heading_size": "h1",
             "heading_highlight_style": "none",
             "subheading": "",
-            "description": "<p>DoorJammer is part of the Penn Elcom Group of companies and has the worldwide rights to manufacture, market and sell DoorJammer and DoorJammer Lockdown.</p><p>DoorJammer utilises the Penn Elcom Group of companies to manufacture and distribute DoorJammer in many countries around the world. If you have any questions about the distribution of DoorJammer in your country, please feel free to <a href=\"/pages/contact\" target=\"_blank\" title=\"Contact\">contact us</a>.</p><p><em> </em></p><p><em>DoorJammer is a trading name of Penn Elcom Ltd</em>.<br/>Company Number: 4768848<br/>VAT number: GB918223138<br/><br/></p>",
+            "description": "<p>DoorJammer is part of the Penn Elcom Group of companies and has the worldwide rights to manufacture, market and sell DoorJammer and DoorJammer Lockdown.</p><p>DoorJammer utilizes the Penn Elcom Group of companies to manufacture and distribute DoorJammer in many countries around the world. If you have any questions about the distribution of DoorJammer in your country, please feel free to <a href=\"/pages/contact\" target=\"_blank\" title=\"Contact\">contact us</a>.</p>",
             "text_size": "text-lg",
             "text_alignment": "left",
             "button_label": "",
@@ -217,12 +99,12 @@
             "button_style": "btn--primary"
           }
         },
-        "tab_Yhnj9t": {
+        "tab_Mfwyxx": {
           "type": "tab",
           "settings": {
             "content_color_scheme": "scheme-2",
             "navigation_title": "How To Use",
-            "image": "shopify://shop_images/DJ3-AMAZON-Lifestyle-1_31867f21-ece5-4ee6-a9c9-972bc981e19f.png",
+            "image": "shopify://shop_images/DJ3-LIFESTYLE-2_b01b7d7c-2388-4cff-b5d3-42d94d08ac7b.jpg",
             "heading": "How To Use",
             "heading_size": "h1",
             "heading_highlight_style": "none",
@@ -237,11 +119,12 @@
         }
       },
       "block_order": [
-        "tab_TY4A3w",
-        "tab_PA6E9a",
-        "tab_wUHL7M",
-        "tab_Yhnj9t"
+        "tab_CeYik4",
+        "tab_hhjFRk",
+        "tab_h9AaU9",
+        "tab_Mfwyxx"
       ],
+      "name": "t:sections.collage-tabs.presets.name",
       "settings": {
         "color_scheme": "",
         "heading_size": "h4",
@@ -255,10 +138,10 @@
         "divider_width": "fixed"
       }
     },
-    "scrolling_promotion_Nfe8UL": {
+    "scrolling_promotion_pdHmLH": {
       "type": "scrolling-promotion",
       "blocks": {
-        "text_inGyae": {
+        "text_9dgzXp": {
           "type": "text",
           "settings": {
             "text": "AS SEEN ON",
@@ -273,7 +156,7 @@
             "custom_color": "#000000"
           }
         },
-        "image_w6E9Hq": {
+        "image_dygB6r": {
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/Mornig-Live-SQ.png",
@@ -283,7 +166,7 @@
             "image_height_mobile": 90
           }
         },
-        "image_pdGMVW": {
+        "image_wbRtKF": {
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/dragons-den-SQ.png",
@@ -293,7 +176,7 @@
             "image_height_mobile": 90
           }
         },
-        "image_MrMbe3": {
+        "image_bTx3Ef": {
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/good-good-SQ.png",
@@ -303,7 +186,7 @@
             "image_height_mobile": 90
           }
         },
-        "image_qeFBjC": {
+        "image_gFMGBf": {
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/megyn-kelly-SQ.png",
@@ -313,7 +196,7 @@
             "image_height_mobile": 90
           }
         },
-        "image_BHDn4B": {
+        "image_am3EtX": {
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/genius-club-SQ.png",
@@ -323,7 +206,7 @@
             "image_height_mobile": 90
           }
         },
-        "image_9ryKtj": {
+        "image_CFanNJ": {
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/in-the-know-SQ.png",
@@ -333,7 +216,7 @@
             "image_height_mobile": 90
           }
         },
-        "image_Whx7Fd": {
+        "image_YNDHDM": {
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/best-products-SQ.png",
@@ -343,33 +226,33 @@
             "image_height_mobile": 90
           }
         },
-        "image_aqraca": {
+        "image_8cTjTa": {
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/viral-trend-SQ.png",
             "image_height": 80,
             "image_rounded": true,
             "image_link": "",
-            "image_height_mobile": 56
+            "image_height_mobile": 90
           }
         }
       },
       "block_order": [
-        "text_inGyae",
-        "image_w6E9Hq",
-        "image_pdGMVW",
-        "image_MrMbe3",
-        "image_qeFBjC",
-        "image_BHDn4B",
-        "image_9ryKtj",
-        "image_Whx7Fd",
-        "image_aqraca"
+        "text_9dgzXp",
+        "image_dygB6r",
+        "image_wbRtKF",
+        "image_bTx3Ef",
+        "image_gFMGBf",
+        "image_am3EtX",
+        "image_CFanNJ",
+        "image_YNDHDM",
+        "image_8cTjTa"
       ],
       "settings": {
         "color_scheme": "",
         "vertical_alignment": "center",
         "direction": "left",
-        "pause_on_hover": false,
+        "pause_on_hover": true,
         "speed": 0.2,
         "h_spacing": 50,
         "v_spacing": 26,
@@ -379,96 +262,10 @@
         "divider_layout": "vertical"
       }
     },
-    "multicolumn_Mxt4d3": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_ppme79": {
-          "type": "column",
-          "settings": {
-            "image_width": "large",
-            "title": "Column",
-            "heading_size": "h4",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "text_size": "text-base",
-            "button_label": "",
-            "button_style": "btn--underline",
-            "button_link": "",
-            "mobile_layout": "inherit"
-          }
-        },
-        "column_6eYcFq": {
-          "type": "column",
-          "settings": {
-            "image_width": "large",
-            "title": "Column",
-            "heading_size": "h4",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "text_size": "text-base",
-            "button_label": "",
-            "button_style": "btn--underline",
-            "button_link": "",
-            "mobile_layout": "inherit"
-          }
-        },
-        "column_6mMR7m": {
-          "type": "column",
-          "settings": {
-            "image_width": "large",
-            "title": "Column",
-            "heading_size": "h4",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "text_size": "text-base",
-            "button_label": "",
-            "button_style": "btn--underline",
-            "button_link": "",
-            "mobile_layout": "inherit"
-          }
-        },
-        "column_Lix6qc": {
-          "type": "column",
-          "settings": {
-            "image_width": "large",
-            "title": "Column",
-            "heading_size": "h4",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "text_size": "text-base",
-            "button_label": "",
-            "button_style": "btn--underline",
-            "button_link": "",
-            "mobile_layout": "inherit"
-          }
-        }
-      },
-      "block_order": [
-        "column_ppme79",
-        "column_6eYcFq",
-        "column_6mMR7m",
-        "column_Lix6qc"
-      ],
-      "disabled": true,
-      "settings": {
-        "color_scheme": "",
-        "heading": "",
-        "heading_size": "h1",
-        "heading_highlight_style": "none",
-        "subheading": "",
-        "description": "",
-        "text_size": "text-base",
-        "column_alignment": "center",
-        "columns_desktop": 4,
-        "column_gap": "large",
-        "columns_mobile": "1",
-        "swipe_on_mobile": true,
-        "padding_top": 80,
-        "padding_bottom": 80,
-        "show_section_divider": false,
-        "divider_width": "fixed"
-      }
-    },
-    "collapsible_tabs_z3JGYY": {
+    "collapsible_tabs_zBcm89": {
       "type": "collapsible-tabs",
       "blocks": {
-        "heading_MDmMTX": {
+        "heading_6fgP9A": {
           "type": "heading",
           "settings": {
             "heading": "",
@@ -476,7 +273,7 @@
             "sub_heading": ""
           }
         },
-        "image_card_NmUgMM": {
+        "image_card_CNReQP": {
           "type": "image_card",
           "settings": {
             "color_scheme": "scheme-1",
@@ -499,7 +296,7 @@
             "order_first": false
           }
         },
-        "collapsible_item_VdqfgD": {
+        "collapsible_item_7XPfgb": {
           "type": "collapsible_item",
           "settings": {
             "icon": "ruler",
@@ -510,7 +307,7 @@
             "open": true
           }
         },
-        "collapsible_item_AWXyNC": {
+        "collapsible_item_9Rk9Ux": {
           "type": "collapsible_item",
           "settings": {
             "icon": "map-pin",
@@ -521,7 +318,7 @@
             "open": false
           }
         },
-        "collapsible_item_nbqHwr": {
+        "collapsible_item_GM8X7E": {
           "type": "collapsible_item",
           "settings": {
             "icon": "gear",
@@ -532,12 +329,12 @@
             "open": false
           }
         },
-        "collapsible_item_ghjx8T": {
+        "collapsible_item_jPTNg3": {
           "type": "collapsible_item",
           "settings": {
             "icon": "gift",
             "heading": "Do you have distributors and can I apply to be one?",
-            "content": "<p>Yes, we do accept a limited amount of distributors - apply by emailing us at <a href=\"mailto:sales@door-jammer.com\" target=\"_blank\" title=\"mailto:sales@door-jammer.com\">salesuk@door-jammer.com</a></p>",
+            "content": "<p>Yes, we do accept a limited amount of distributors - apply by emailing us at <a href=\"mailto:saleseu@door-jammer.com\" title=\"mailto:saleseu@door-jammer.com\"><span style=\"text-decoration:underline\">saleseu@door-jammer.com</span></a></p>",
             "custom_liquid": "",
             "page": "",
             "open": false
@@ -545,16 +342,12 @@
         }
       },
       "block_order": [
-        "heading_MDmMTX",
-        "image_card_NmUgMM",
-        "collapsible_item_VdqfgD",
-        "collapsible_item_AWXyNC",
-        "collapsible_item_nbqHwr",
-        "collapsible_item_ghjx8T"
-      ],
-      "custom_css": [
-        ".collapsible-tabs__wrapper {--row-gap-mobile: 4.8rem;}",
-        "@media (min-width: 768px) {collapsible-tabs {max-width: 57rem; padding-inline-start: 3rem; } .collapsible-tabs__content-col {align-items: flex-end; }}"
+        "heading_6fgP9A",
+        "image_card_CNReQP",
+        "collapsible_item_7XPfgb",
+        "collapsible_item_9Rk9Ux",
+        "collapsible_item_GM8X7E",
+        "collapsible_item_jPTNg3"
       ],
       "settings": {
         "container": "fixed",
@@ -564,12 +357,12 @@
         "heading_size": "h4",
         "heading_highlight_style": "none",
         "subheading": "",
-        "description": "<p>Explore our frequently asked questions for more information on our DoorJammer portable door lock range.</p><p>Click the button below to see all questions.</p><p>Still unsure? Feel free to reach out to our team on +44 (0) 1424 239284 or <a href=\"mailto:sales@door-jammer.co.uk\" target=\"_blank\" title=\"mailto:salesuk@door-jammer.com\">salesuk@door-jammer.com</a></p>",
+        "description": "<p>Explore our frequently asked questions for more information on our DoorJammer portable door lock range.</p><p>Click the button below to see all questions.</p><p>Still unsure? Feel free to reach out to our team on +44 (0) 1424 429 641 or <a href=\"mailto:saleseu@door-jammer.com\" target=\"_blank\" title=\"mailto:saleseu@door-jammer.com\">saleseu@door-jammer.com</a></p>",
         "text_size": "text-base",
         "button_label": "See All FAQs",
         "button_link": "shopify://pages/faq",
         "button_style": "btn--primary",
-        "column_gap": "none",
+        "column_gap": "small",
         "row_gap": "large",
         "item_style": "standard",
         "item_color_scheme": "",
@@ -582,19 +375,19 @@
         "divider_width": "full"
       }
     },
-    "feature_list_cW3d9c": {
+    "feature_list_qp6xWY": {
       "type": "feature-list",
       "blocks": {
-        "feature_item_VbCwL3": {
+        "feature_item_ntp3wD": {
           "type": "feature_item",
           "settings": {
             "color_scheme": "scheme-2",
             "icon": "gear",
             "icon_style": "btn--secondary",
-            "text": "Immovable"
+            "text": "immovable"
           }
         },
-        "feature_item_NzxQGa": {
+        "feature_item_Q3K3hW": {
           "type": "feature_item",
           "settings": {
             "color_scheme": "scheme-2",
@@ -603,7 +396,7 @@
             "text": "Hassle-Free"
           }
         },
-        "feature_item_yyNV9A": {
+        "feature_item_JWBLhU": {
           "type": "feature_item",
           "settings": {
             "color_scheme": "scheme-2",
@@ -612,16 +405,16 @@
             "text": "Instant"
           }
         },
-        "feature_item_gBgLft": {
+        "feature_item_7K7zAH": {
           "type": "feature_item",
           "settings": {
             "color_scheme": "scheme-2",
             "icon": "certificate",
             "icon_style": "btn--secondary",
-            "text": "Impact Tested"
+            "text": "Impact-Tested"
           }
         },
-        "feature_item_TDF6Nk": {
+        "feature_item_g7X9CG": {
           "type": "feature_item",
           "settings": {
             "color_scheme": "scheme-2",
@@ -632,33 +425,33 @@
         }
       },
       "block_order": [
-        "feature_item_VbCwL3",
-        "feature_item_NzxQGa",
-        "feature_item_yyNV9A",
-        "feature_item_gBgLft",
-        "feature_item_TDF6Nk"
+        "feature_item_ntp3wD",
+        "feature_item_Q3K3hW",
+        "feature_item_JWBLhU",
+        "feature_item_7K7zAH",
+        "feature_item_g7X9CG"
       ],
       "settings": {
-        "color_scheme": "scheme-7",
+        "color_scheme": "",
         "subheading": "",
-        "heading": "",
-        "heading_size": "h1",
+        "heading": "Feature list",
+        "heading_size": "h2",
         "heading_highlight_style": "none",
         "description": "",
         "text_size": "text-base",
         "item_alignment": "center",
         "icon_size": "extra-medium",
         "swipe_on_mobile": true,
-        "padding_top": 60,
-        "padding_bottom": 60,
+        "padding_top": 50,
+        "padding_bottom": 50,
         "show_section_divider": false,
         "divider_width": "fixed"
       }
     },
-    "lookbook_slider_dhrmq7": {
+    "lookbook_slider_9aNKja": {
       "type": "lookbook-slider",
       "blocks": {
-        "product_LJH6c4": {
+        "product_XP8xbm": {
           "type": "product",
           "settings": {
             "product": "doorjammer-portable",
@@ -666,7 +459,7 @@
             "left": 15
           }
         },
-        "product_3tcaAb": {
+        "product_tqn99e": {
           "type": "product",
           "settings": {
             "product": "doorjammer-lockdown",
@@ -676,9 +469,10 @@
         }
       },
       "block_order": [
-        "product_LJH6c4",
-        "product_3tcaAb"
+        "product_XP8xbm",
+        "product_tqn99e"
       ],
+      "name": "t:sections.lookbook-slider.presets.name",
       "settings": {
         "color_scheme": "",
         "use_color_scheme_in_container": false,
@@ -692,25 +486,30 @@
         "image_aspect_ratio": "1/1",
         "image_position": "left",
         "annotation_color": "light",
-        "product_image_ratio": "1/1",
+        "product_image_ratio": "",
         "product_per_slide": "1",
         "padding_top": 10,
         "padding_bottom": 50,
         "show_section_divider": false,
         "divider_width": "fixed"
       }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
     }
   },
   "order": [
-    "main",
-    "video_hero_riEjtc",
-    "rich_text_tdy9rt",
-    "custom_content_wN3EKJ",
-    "collage_tabs_4tqYyi",
-    "scrolling_promotion_Nfe8UL",
-    "multicolumn_Mxt4d3",
-    "collapsible_tabs_z3JGYY",
-    "feature_list_cW3d9c",
-    "lookbook_slider_dhrmq7"
+    "rich_text_Mfhd8W",
+    "collage_tabs_n8PckJ",
+    "scrolling_promotion_pdHmLH",
+    "collapsible_tabs_zBcm89",
+    "feature_list_qp6xWY",
+    "lookbook_slider_9aNKja",
+    "main"
   ]
 }
