@@ -67,7 +67,7 @@
         "text_x4yjLN"
       ],
       "settings": {
-        "color_scheme": "scheme-inverse",
+        "color_scheme": "scheme-2",
         "vertical_alignment": "center",
         "direction": "left",
         "pause_on_hover": false,
@@ -84,7 +84,7 @@
       "type": "header",
       "settings": {
         "container": "fixed",
-        "color_scheme": "scheme-2",
+        "color_scheme": "scheme-inverse",
         "menu": "main-menu",
         "menu_mobile": "",
         "header_layout": "left-center",

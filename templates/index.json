@@ -16,6 +16,7 @@
           "type": "slide",
           "settings": {
             "color_scheme": "scheme-1",
+            "background": "shopify://shop_images/DJ3-Home-Banner-4-V3.png",
             "image_overlay_opacity": 0,
             "content_position": "middle-left",
             "text_alignment": "center",
@@ -33,6 +34,7 @@
           "type": "slide",
           "settings": {
             "color_scheme": "scheme-1",
+            "background": "shopify://shop_images/Both-Home-Banner-3-V3.png",
             "image_overlay_opacity": 0,
             "content_position": "middle-right",
             "text_alignment": "center",
