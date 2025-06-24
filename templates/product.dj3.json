@@ -110,19 +110,9 @@
         "collapsible-row-2": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Collapsible tab heading",
-            "icon": "none",
-            "content": "<p>Fill in the text content of the collapsible item here. You can provide details and explanation for the question here.</p>",
-            "page": "",
-            "default_open": false
-          }
-        },
-        "collapsible-row-3": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Collapsible tab heading",
-            "icon": "none",
-            "content": "<p>Fill in the text content of the collapsible item here. You can provide details and explanation for the question here.</p>",
+            "heading": "Included In Box",
+            "icon": "package",
+            "content": "<p>{{ product.metafields.custom.included_in_box | metafield_tag }}</p>",
             "page": "",
             "default_open": false
           }
@@ -148,7 +138,6 @@
         "complementary",
         "collapsible-row-1",
         "collapsible-row-2",
-        "collapsible-row-3",
         "addons"
       ],
       "settings": {
@@ -235,6 +224,7 @@
         "testimonial_RgfDDw",
         "testimonial_abi6JN"
       ],
+      "disabled": true,
       "settings": {
         "color_scheme": "scheme-2",
         "heading": "Testimonials",
@@ -264,8 +254,8 @@
           "settings": {
             "color_scheme": "",
             "icon": "check",
-            "icon_style": "btn--secondary",
-            "text": "Feature item"
+            "icon_style": "btn--primary",
+            "text": "Homes"
           }
         },
         "feature_item_NzxQGa": {
@@ -273,8 +263,8 @@
           "settings": {
             "color_scheme": "",
             "icon": "check",
-            "icon_style": "btn--secondary",
-            "text": "Feature item"
+            "icon_style": "btn--primary",
+            "text": "Hotels"
           }
         },
         "feature_item_yyNV9A": {
@@ -282,8 +272,8 @@
           "settings": {
             "color_scheme": "",
             "icon": "check",
-            "icon_style": "btn--secondary",
-            "text": "Feature item"
+            "icon_style": "btn--primary",
+            "text": "Travel"
           }
         },
         "feature_item_gBgLft": {
@@ -291,17 +281,8 @@
           "settings": {
             "color_scheme": "",
             "icon": "check",
-            "icon_style": "btn--secondary",
-            "text": "Feature item"
-          }
-        },
-        "feature_item_R8A8eX": {
-          "type": "feature_item",
-          "settings": {
-            "color_scheme": "",
-            "icon": "check",
-            "icon_style": "btn--secondary",
-            "text": "Feature item"
+            "icon_style": "btn--primary",
+            "text": "Offices"
           }
         }
       },
@@ -309,11 +290,10 @@
         "feature_item_VbCwL3",
         "feature_item_NzxQGa",
         "feature_item_yyNV9A",
-        "feature_item_gBgLft",
-        "feature_item_R8A8eX"
+        "feature_item_gBgLft"
       ],
       "settings": {
-        "color_scheme": "scheme-7",
+        "color_scheme": "scheme-3",
         "subheading": "",
         "heading": "",
         "heading_size": "h2",
@@ -323,8 +303,8 @@
         "item_alignment": "center",
         "icon_size": "extra-medium",
         "swipe_on_mobile": true,
-        "padding_top": 100,
-        "padding_bottom": 0,
+        "padding_top": 20,
+        "padding_bottom": 20,
         "show_section_divider": false,
         "divider_width": "fixed"
       }
@@ -344,6 +324,7 @@
       "block_order": [
         "heading_cUbnWW"
       ],
+      "disabled": true,
       "settings": {
         "color_scheme": "",
         "content_alignment": "center",
@@ -383,6 +364,7 @@
         "heading_J7mctK",
         "text_A3Dahr"
       ],
+      "disabled": true,
       "settings": {
         "section_color_scheme": "",
         "color_scheme": "scheme-2",
@@ -405,10 +387,11 @@
         "column_ppme79": {
           "type": "column",
           "settings": {
-            "image_width": "large",
-            "title": "Column",
+            "image": "shopify://shop_images/DJ3-how-to-use-img-1-2025_c66bc9ef-55e0-4674-9d7e-50117218c877.png",
+            "image_width": "full",
+            "title": "1",
             "heading_size": "h4",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "text": "<p>Insert the flat part of DoorJammer all the way under the door directly beneath the handle or where the handle would be</p>",
             "text_size": "text-base",
             "button_label": "",
             "button_style": "btn--underline",
@@ -419,10 +402,11 @@
         "column_6eYcFq": {
           "type": "column",
           "settings": {
-            "image_width": "large",
-            "title": "Column",
+            "image": "shopify://shop_images/DJ3-how-to-use-img-2-2025_a8f4a71f-0de7-4820-a72e-194fb468b7df.png",
+            "image_width": "full",
+            "title": "2",
             "heading_size": "h4",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "text": "<p>Twist the screwclockwise to extend the foot until it is firm against the floor</p>",
             "text_size": "text-base",
             "button_label": "",
             "button_style": "btn--underline",
@@ -433,24 +417,11 @@
         "column_6mMR7m": {
           "type": "column",
           "settings": {
-            "image_width": "large",
-            "title": "Column",
+            "image": "shopify://shop_images/DJ3-how-to-use-img-3-2025_4f67afbc-441c-4386-a289-63ad141d6cac.png",
+            "image_width": "full",
+            "title": "3",
             "heading_size": "h4",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "text_size": "text-base",
-            "button_label": "",
-            "button_style": "btn--underline",
-            "button_link": "",
-            "mobile_layout": "inherit"
-          }
-        },
-        "column_Lix6qc": {
-          "type": "column",
-          "settings": {
-            "image_width": "large",
-            "title": "Column",
-            "heading_size": "h4",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "text": "<p>Pull the handle to check that the door is secure</p>",
             "text_size": "text-base",
             "button_label": "",
             "button_style": "btn--underline",
@@ -462,24 +433,23 @@
       "block_order": [
         "column_ppme79",
         "column_6eYcFq",
-        "column_6mMR7m",
-        "column_Lix6qc"
+        "column_6mMR7m"
       ],
       "settings": {
         "color_scheme": "",
-        "heading": "",
+        "heading": "How To Use",
         "heading_size": "h1",
         "heading_highlight_style": "none",
         "subheading": "",
         "description": "",
         "text_size": "text-base",
         "column_alignment": "center",
-        "columns_desktop": 4,
+        "columns_desktop": 3,
         "column_gap": "large",
         "columns_mobile": "1",
         "swipe_on_mobile": true,
-        "padding_top": 80,
-        "padding_bottom": 80,
+        "padding_top": 20,
+        "padding_bottom": 0,
         "show_section_divider": false,
         "divider_width": "fixed"
       }
