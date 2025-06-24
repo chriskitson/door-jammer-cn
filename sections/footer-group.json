@@ -1,0 +1,173 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "name": "t:sections.footer.name",
+  "type": "footer",
+  "sections": {
+    "footer": {
+      "type": "footer",
+      "blocks": {
+        "newsletter_3qCrWc": {
+          "type": "newsletter",
+          "disabled": true,
+          "settings": {
+            "block_width": 41,
+            "heading": "Subscribe to our emails",
+            "heading_size": "h1",
+            "newsletter_description": "<p>Be the first to know about new collections and exclusive offers.</p>",
+            "newsletter_term": "<p>By subscribing you agree to the <a href=\"/pages/terms-of-use\" target=\"_blank\" title=\"Terms of Use\">Terms of Use</a> & <a href=\"/pages/privacy-policy\" target=\"_blank\" title=\"Privacy Policy\">Privacy Policy.</a></p>",
+            "newsletter_text_alignment": "left",
+            "form_width": 465,
+            "order_first": true
+          }
+        },
+        "image_text_F3FNhx": {
+          "type": "image_text",
+          "settings": {
+            "block_width": 40,
+            "heading": "About",
+            "heading_size": "h4",
+            "image_width": 150,
+            "text": "<p>DoorJammer was invented by product designer Von Saint while on holiday in Mexico. Necessity became the mother of invention when he discovered his hotel room's broken door lock...</p>",
+            "button_label": "Learn More",
+            "button_link": "shopify://pages/about-doorjammer",
+            "open_default": false,
+            "show_divider": false
+          }
+        },
+        "menu_DEKGYP": {
+          "type": "menu",
+          "settings": {
+            "block_width": 17,
+            "heading": "Customer Service",
+            "heading_size": "h4",
+            "menu": "customer-service",
+            "open_default": false,
+            "show_divider": false
+          }
+        },
+        "menu_4eCrBB": {
+          "type": "menu",
+          "settings": {
+            "block_width": 17,
+            "heading": "Information",
+            "heading_size": "h4",
+            "menu": "information",
+            "open_default": false,
+            "show_divider": false
+          }
+        },
+        "contact_information_igDTHe": {
+          "type": "contact_information",
+          "settings": {
+            "block_width": 25,
+            "heading": "Contact",
+            "heading_size": "h4",
+            "address": "",
+            "working_hours": "9:00am - 5:00pm, Mon-Fri",
+            "email": "saleseu@door-jammer.com",
+            "phone": "+44 (0) 1424 429 641",
+            "open_default": false,
+            "show_divider": false
+          }
+        },
+        "image_text_PrbTmb": {
+          "type": "image_text",
+          "settings": {
+            "block_width": 40,
+            "heading": "",
+            "heading_size": "h4",
+            "image_width": 150,
+            "text": "<p><em>DoorJammer is a trading name of Penn Elcom Ltd</em>.</p><p>Company Number: 4768848<br/>VAT number: GB918223138</p>",
+            "button_label": "",
+            "button_link": "",
+            "open_default": false,
+            "show_divider": false
+          }
+        }
+      },
+      "block_order": [
+        "newsletter_3qCrWc",
+        "image_text_F3FNhx",
+        "menu_DEKGYP",
+        "menu_4eCrBB",
+        "contact_information_igDTHe",
+        "image_text_PrbTmb"
+      ],
+      "custom_css": [
+        ".form-control {--color-border: var(--color-field);}"
+      ],
+      "settings": {
+        "color_scheme": "scheme-2",
+        "enable_follow_on_shop": true,
+        "show_social": true,
+        "enable_country_selector": true,
+        "enable_language_selector": false,
+        "payment_enable": true,
+        "footer_bottom_menu": "",
+        "show_section_divider": true,
+        "divider_width": "full"
+      }
+    },
+    "mobile_sticky_bar_aYhgJK": {
+      "type": "mobile-sticky-bar",
+      "blocks": {
+        "home_AP8mmy": {
+          "type": "home",
+          "settings": {
+            "text": "Home"
+          }
+        },
+        "search_n3h4zT": {
+          "type": "search",
+          "settings": {
+            "text": "Search"
+          }
+        },
+        "cart_gnnwxQ": {
+          "type": "cart",
+          "settings": {
+            "text": "Cart"
+          }
+        },
+        "products_eYYkE8": {
+          "type": "products",
+          "settings": {
+            "text": "Products",
+            "collection": ""
+          }
+        },
+        "link_mJ6QMc": {
+          "type": "link",
+          "settings": {
+            "text": "About",
+            "url": "shopify://pages/about",
+            "icon": "map-pin"
+          }
+        }
+      },
+      "block_order": [
+        "home_AP8mmy",
+        "search_n3h4zT",
+        "cart_gnnwxQ",
+        "products_eYYkE8",
+        "link_mJ6QMc"
+      ],
+      "settings": {
+        "enable_sticky_bar": true,
+        "show_text": true
+      }
+    }
+  },
+  "order": [
+    "footer",
+    "mobile_sticky_bar_aYhgJK"
+  ]
+}

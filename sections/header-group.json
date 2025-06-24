@@ -1,0 +1,109 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "name": "t:sections.header.name",
+  "type": "header",
+  "sections": {
+    "scrolling_promotion_KhdTdc": {
+      "type": "scrolling-promotion",
+      "blocks": {
+        "text_niHbzP": {
+          "type": "text",
+          "settings": {
+            "text": "🔒 Secure Payments",
+            "text_link": "",
+            "text_size": "text-base",
+            "font_weight": "font-heading",
+            "font_style": "normal",
+            "letter_spacing": 0,
+            "text_opacity": 100,
+            "text_style": "normal",
+            "use_custom_color": false,
+            "custom_color": "#cb1021"
+          }
+        },
+        "text_MU4KUX": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "🚚 Free Shipping on orders over £100",
+            "text_link": "",
+            "text_size": "text-base",
+            "font_weight": "font-heading",
+            "font_style": "normal",
+            "letter_spacing": 0,
+            "text_opacity": 100,
+            "text_style": "normal",
+            "use_custom_color": false,
+            "custom_color": "#000000"
+          }
+        },
+        "text_x4yjLN": {
+          "type": "text",
+          "settings": {
+            "text": "🤝 Bulk order discounts available upon request",
+            "text_link": "shopify://pages/contact",
+            "text_size": "text-base",
+            "font_weight": "font-heading",
+            "font_style": "normal",
+            "letter_spacing": 0,
+            "text_opacity": 100,
+            "text_style": "normal",
+            "use_custom_color": false,
+            "custom_color": "#000000"
+          }
+        }
+      },
+      "block_order": [
+        "text_niHbzP",
+        "text_MU4KUX",
+        "text_x4yjLN"
+      ],
+      "settings": {
+        "color_scheme": "scheme-inverse",
+        "vertical_alignment": "center",
+        "direction": "left",
+        "pause_on_hover": false,
+        "speed": 0.3,
+        "h_spacing": 116,
+        "v_spacing": 0,
+        "padding_top": 12,
+        "padding_bottom": 12,
+        "show_divider": false,
+        "divider_layout": "vertical"
+      }
+    },
+    "header": {
+      "type": "header",
+      "settings": {
+        "container": "fixed",
+        "color_scheme": "scheme-2",
+        "menu": "main-menu",
+        "menu_mobile": "",
+        "header_layout": "left-center",
+        "sticky_header": "always",
+        "menu_trigger": "click",
+        "show_sperator_line": true,
+        "enable_transparent_header": false,
+        "transparent_header_color": "#ffffff",
+        "logo_mobile_position": "left",
+        "show_social_media_icons": true,
+        "enable_language_selector": true,
+        "enable_country_selector": true,
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    }
+  },
+  "order": [
+    "scrolling_promotion_KhdTdc",
+    "header"
+  ]
+}

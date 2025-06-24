@@ -1,0 +1,147 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "custom_content_9eXrft": {
+      "type": "custom-content",
+      "blocks": {
+        "text_Fj7FHR": {
+          "type": "text",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1",
+            "heading_highlight_style": "none",
+            "subheading": "",
+            "description": "<p><strong>Europe</strong> <strong>Delivery</strong> - 2-3 Days</p><p></p><p></p><p>*These delivery times are estimated. Your delivery may be slightly quicker or slower depending on your country of delivery. If you require exact delivery times please contact us before purchase</p><p></p>",
+            "text_size": "text-base",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "btn--primary",
+            "content_alignment": "left",
+            "width": "50%",
+            "alignment": "center",
+            "block_custom_class": ""
+          }
+        },
+        "text_card_with_image_T44zmx": {
+          "type": "text_card_with_image",
+          "settings": {
+            "color_scheme": "scheme-d3c4c0a8-8008-4fbe-9cb6-8b6689dfa03c",
+            "image_ratio": "adapt",
+            "image_width": 60,
+            "heading": "",
+            "heading_size": "h2",
+            "heading_highlight_style": "none",
+            "subheading": "",
+            "description": "<h5>We use the following couriers for DoorJammer orders:</h5><p><strong>Europe</strong> - DHL, Royal Mail & ParcelForce</p>",
+            "text_size": "text-base",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "btn--primary",
+            "width": "50%",
+            "alignment": "center",
+            "full_column_height": false,
+            "block_custom_class": ""
+          }
+        },
+        "text_CPpwRQ": {
+          "type": "text",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1",
+            "heading_highlight_style": "none",
+            "subheading": "",
+            "description": "<h5><strong>DELIVERY AND RETURNS INFORMATION</strong></h5><p>Orders received before 3:00pm are delivered within 3-4 working days. Delivery times for International orders may vary depending on destination. Please <a href=\"/pages/contact\" target=\"_blank\" title=\"Contact\">contact our sales team</a> for more accurate delivery times.</p><p>If you are not satisfied with your purchase and your DoorJammer is unused, you may return it for a full refund within 30 days of purchase.</p>",
+            "text_size": "text-base",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "btn--primary",
+            "content_alignment": "left",
+            "width": "100%",
+            "alignment": "center",
+            "block_custom_class": ""
+          }
+        },
+        "text_YfxUQx": {
+          "type": "text",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1",
+            "heading_highlight_style": "none",
+            "subheading": "",
+            "description": "<h5><strong>WARRANTIES</strong></h5><p>DoorJammer is guaranteed against manufacturing defects for up to 12 months. If you experience any problems with your DoorJammer please <a href=\"/pages/contact\" target=\"_blank\" title=\"Contact\">contact us</a> for more information on our Warranty terms.</p>",
+            "text_size": "text-base",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "btn--primary",
+            "content_alignment": "left",
+            "width": "100%",
+            "alignment": "center",
+            "block_custom_class": ""
+          }
+        },
+        "text_BErDE3": {
+          "type": "text",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1",
+            "heading_highlight_style": "none",
+            "subheading": "",
+            "description": "<h5><strong>RETURNS ADDRESS</strong></h5><p>Returns Dept.<br/>DoorJammer<br/>Philips House<br/>Drury Lane<br/>St Leonards on Sea<br/>TN38 9BA<br/>United Kingdom</p>",
+            "text_size": "text-base",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "btn--primary",
+            "content_alignment": "left",
+            "width": "100%",
+            "alignment": "center",
+            "block_custom_class": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_Fj7FHR",
+        "text_card_with_image_T44zmx",
+        "text_CPpwRQ",
+        "text_YfxUQx",
+        "text_BErDE3"
+      ],
+      "settings": {
+        "container": "fixed",
+        "color_scheme": "",
+        "enable_sticky_column": false,
+        "heading": "",
+        "heading_size": "h1",
+        "heading_highlight_style": "none",
+        "subheading": "",
+        "description": "<p><strong>DoorJammer is held in stock in our own warehouses all around the world. This means quick delivery and low prices from our North American, South American, European, Australasian and Asian depots.</strong></p><p>Simply select your country at the checkout and your delivery cost will be displayed.</p>",
+        "column_gap": "medium",
+        "row_gap": "large",
+        "swipe_on_mobile": false,
+        "columns_mobile": "1",
+        "padding_top": 50,
+        "padding_bottom": 50,
+        "show_section_divider": false,
+        "divider_width": "fixed"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "custom_content_9eXrft"
+  ]
+}

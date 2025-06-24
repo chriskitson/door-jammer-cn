@@ -1,0 +1,92 @@
+{% capture countries %}
+https://www.door-jammer.com|USA (America)|$|USD|us,
+https://www.door-jammer.co.uk|UK (United Kingdom)|£|GBP|gb,
+https://www.door-jammer.eu|EU (Europe)|€|EUR|eu,
+https://au.door-jammer.com|AUS (Australia)|$|AUD|au,
+https://ca.door-jammer.com|CAN (Canada)|$|CAD|ca,
+https://cn.door-jammer.com|CN (China)|¥|CNY|cn
+{% endcapture %}
+  
+{% assign countries_array = countries | split: "," %}
+{% assign selected_country = "EU" %}
+{% assign selected_currency = "€ EUR" %}
+
+<div class="country-selector">
+  <div class="country-selector__value">
+    {{ selected_country }} - {{ selected_currency }}
+    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-caret-down icon--medium" viewBox="0 0 20 20" fill="none">
+      <path d="M16.25 7.5L10 13.75L3.75 7.5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+    </svg>
+  </div>
+  <div class="country-selector__options">
+    {% for country in countries_array %}
+      {% assign country_details = country | split: "|" %}
+      {% assign country_url = country_details[0] %}
+      {% assign country_name = country_details[1] %}
+      {% assign currency_symbol = country_details[2] %}
+      {% assign currency_code = country_details[3] %}
+      {% assign country_flag = country_details[4] %}
+      <a href="{{  country_url }}"><img src="https://flagcdn.com/24x18/{{ country_flag }}.png" /> {{ country_name }} <span class="country-selector__option__currency">{{ currency_symbol }} {{ currency_code }}</span></a>
+    {% endfor %}
+     <a href="https://www.door-jammer.co.uk"><img src="https://cdn.shopify.com/s/files/1/0861/7928/3292/files/globe.png?v=1731427272" /> Rest of World</a>
+  </div>
+</div>
+
+{% style %}
+
+.country-selector__value {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.country-selector__value svg {
+  margin-left: 5px;
+}
+
+.country-selector__options {
+  display: none;
+  position: absolute;
+  margin-top: 10px;
+  background: #cb1121;
+  flex-direction: column;
+  padding: 10px;
+  gap: 5px;
+}
+
+.country-selector__options a {
+  display: flex;
+  align-items: center;
+}
+
+.country-selector__options a img {
+  margin-right: 10px;
+}
+
+.country-selector__options.visible {
+  display: flex;
+}
+
+.country-selector__option__currency {
+  font-size: 12px;
+  margin-left: 10px;
+}
+{% endstyle %}
+
+<script>
+const countrySelector = document.querySelector('.country-selector');
+const countryValue = document.querySelector('.country-selector__value');
+const countryOptions = document.querySelector('.country-selector__options');
+function toggleCountryOptions() {
+  countryOptions.classList.toggle('visible');
+}
+function hideCountryOptions(event) {
+  if (!countrySelector.contains(event.target)) {
+    countryOptions.classList.remove('visible');
+  }
+}
+countryValue.addEventListener('click', toggleCountryOptions);
+document.addEventListener('click', hideCountryOptions);
+</script>

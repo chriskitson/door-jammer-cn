@@ -1,0 +1,1605 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "slideshow_q3U4Jn": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_JhU8hg": {
+          "type": "slide",
+          "settings": {
+            "color_scheme": "scheme-1",
+            "background": "shopify://shop_images/DJ3-Home-Banner-4-V3.png",
+            "image_overlay_opacity": 0,
+            "content_position": "middle-left",
+            "text_alignment": "center",
+            "title": "DoorJammer",
+            "heading_size": "hd2",
+            "subheading": "The Original Portable Door Lock",
+            "description": "<h5>HOTELS  |   TRAVEL  |   HOME</h5>",
+            "description_size": "text-base",
+            "button_label": "SHOP NOW",
+            "button_link": "shopify://products/doorjammer-portable",
+            "button_style": "btn--primary"
+          }
+        },
+        "slide_U9bPyj": {
+          "type": "slide",
+          "settings": {
+            "color_scheme": "scheme-1",
+            "background": "shopify://shop_images/Both-Home-Banner-3-V3.png",
+            "image_overlay_opacity": 0,
+            "content_position": "middle-right",
+            "text_alignment": "center",
+            "title": "Available in 2 Sizes",
+            "heading_size": "hd3",
+            "subheading": "Explore The Range",
+            "description": "<h5>There's a solution for almost any environment.</h5>",
+            "description_size": "text-base",
+            "button_label": "SHOP ALL",
+            "button_link": "shopify://collections",
+            "button_style": "btn--primary"
+          }
+        },
+        "slide_UzCwax": {
+          "type": "slide",
+          "settings": {
+            "color_scheme": "scheme-1",
+            "background": "shopify://shop_images/DJ4-Home-Banner-2.png",
+            "image_overlay_opacity": 0,
+            "content_position": "middle-left",
+            "text_alignment": "center",
+            "title": "DoorJammer Lockdown",
+            "heading_size": "hd2",
+            "subheading": "",
+            "description": "<h5>SCHOOLS  |   PUBLIC BUILDINGS  |   OFFICES</h5>",
+            "description_size": "text-base",
+            "button_label": "SHOP NOW",
+            "button_link": "shopify://products/doorjammer-lockdown",
+            "button_style": "btn--primary"
+          }
+        },
+        "slide_pEkPxY": {
+          "type": "slide",
+          "disabled": true,
+          "settings": {
+            "color_scheme": "scheme-1",
+            "image_overlay_opacity": 0,
+            "content_position": "middle-left",
+            "text_alignment": "center",
+            "title": "DoorJammer DJ3",
+            "heading_size": "hd2",
+            "subheading": "Perfect For Travel",
+            "description": "",
+            "description_size": "text-base",
+            "button_label": "FIND OUT MORE",
+            "button_link": "shopify://products/doorjammer-portable",
+            "button_style": "btn--primary"
+          }
+        },
+        "video_wQTPkE": {
+          "type": "video",
+          "disabled": true,
+          "settings": {
+            "color_scheme": "scheme-1",
+            "video_url": "https://www.youtube.com/watch?v=AQ6FrzU9WDM",
+            "video_description": "",
+            "image_overlay_opacity": 0,
+            "content_position": "middle-center",
+            "text_alignment": "center",
+            "title": "Feel Safe In Seconds",
+            "heading_size": "hd2",
+            "subheading": "",
+            "description": "",
+            "description_size": "text-base",
+            "button_label": "FIND OUT MORE",
+            "button_link": "shopify://pages/about-us",
+            "button_style": "btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "slide_JhU8hg",
+        "slide_U9bPyj",
+        "slide_UzCwax",
+        "slide_pEkPxY",
+        "video_wQTPkE"
+      ],
+      "settings": {
+        "container": "full",
+        "layout": "centered",
+        "slide_height": "adapt",
+        "show_dots": true,
+        "autoplay": true,
+        "autoplay_delay": 5,
+        "controls_position": "below",
+        "show_text_below": true,
+        "text_alignment_mobile": "center",
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
+    "product_tabs_iJHLzK": {
+      "type": "product-tabs",
+      "blocks": {
+        "tab_Yz8Mnz": {
+          "type": "tab",
+          "settings": {
+            "title": "Tab name",
+            "collection": ""
+          }
+        },
+        "tab_9cGBUe": {
+          "type": "tab",
+          "settings": {
+            "title": "Tab name",
+            "collection": ""
+          }
+        },
+        "tab_AfgNn8": {
+          "type": "tab",
+          "settings": {
+            "title": "Tab name",
+            "collection": ""
+          }
+        }
+      },
+      "block_order": [
+        "tab_Yz8Mnz",
+        "tab_9cGBUe",
+        "tab_AfgNn8"
+      ],
+      "disabled": true,
+      "settings": {
+        "color_scheme": "",
+        "header_layout": "horizontal",
+        "heading": "",
+        "heading_size": "h1",
+        "heading_highlight_style": "none",
+        "limit": 8,
+        "columns": 4,
+        "column_gap": "extra-small",
+        "row_gap": "inherit",
+        "grid_layout": "standard",
+        "pcard_image_ratio": "",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "show_all_button_on_top": true,
+        "button_label": "Button label",
+        "button_link": "",
+        "button_style": "btn--underline",
+        "tabs_nav_style": "design-2",
+        "padding_top": 100,
+        "padding_bottom": 0,
+        "show_section_divider": false,
+        "divider_width": "fixed"
+      }
+    },
+    "highlight_text_with_image_9KLzcX": {
+      "type": "highlight-text-with-image",
+      "blocks": {
+        "image_URaWGC": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Home-1.png",
+            "image_link": "",
+            "image_width": 220,
+            "image_width_mobile": 110
+          }
+        },
+        "image_DyKWHM": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Travel-1.png",
+            "image_link": "",
+            "image_width": 220,
+            "image_width_mobile": 110
+          }
+        },
+        "image_NGQQmW": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Schools-1.png",
+            "image_link": "",
+            "image_width": 220,
+            "image_width_mobile": 110
+          }
+        },
+        "image_L7pLat": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Business-1.png",
+            "image_link": "",
+            "image_width": 220,
+            "image_width_mobile": 110
+          }
+        }
+      },
+      "block_order": [
+        "image_URaWGC",
+        "image_DyKWHM",
+        "image_NGQQmW",
+        "image_L7pLat"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "text": "Security for the home [img1] travel, [img2] schools [img3] and businesses [img4]",
+        "heading_size": "hd1",
+        "alignment": "center",
+        "padding_top": 100,
+        "padding_bottom": 100,
+        "show_section_divider": false,
+        "divider_width": "fixed"
+      }
+    },
+    "collection_list_Pr36qH": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_VHfaMD": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "personal-security-doorjammers",
+            "image": "shopify://shop_images/DJ3-image-resized.png",
+            "title": "",
+            "description": ""
+          }
+        },
+        "featured_collection_H3VHEr": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "business-industrial-security-doorjammers",
+            "image": "shopify://shop_images/DJ4-24.png",
+            "title": "",
+            "description": ""
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_VHfaMD",
+        "featured_collection_H3VHEr"
+      ],
+      "settings": {
+        "color_scheme": "scheme-2",
+        "layout": "split",
+        "subheading": "Explore Our DoorJammers",
+        "heading": "Feel Safe In Seconds",
+        "heading_size": "h1",
+        "heading_highlight_style": "none",
+        "description": "<p>Our portable DoorJammers instantly turn inward-opening doors into barricades... </p><p>With 2 versatile options, the DoorJammer range provides instant, simple and effective door security options for inward-opening doors and prevents unwanted and forced entry in seconds.</p><p><strong>THE ORIGINAL PORTABLE DOOR LOCKING DEVICE</strong></p><p>✔ Award-Winning </p><p>✔ TSA Approved</p><p>✔ Police-Accredited</p><p>✔ Patented Design</p>",
+        "text_size": "text-base",
+        "card_color_inherited": false,
+        "show_product_count": false,
+        "show_icon": true,
+        "card_style": "",
+        "card_image_ratio": "adapt",
+        "content_alignment": "left",
+        "columns_desktop": 2,
+        "column_gap": "extra-large",
+        "row_gap": "medium",
+        "enable_slider": true,
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 100,
+        "padding_bottom": 100,
+        "show_section_divider": false,
+        "divider_width": "fixed"
+      }
+    },
+    "scrolling_promotion_htQpcB": {
+      "type": "scrolling-promotion",
+      "blocks": {
+        "text_eJYFM7": {
+          "type": "text",
+          "settings": {
+            "text": "AS SEEN ON",
+            "text_link": "",
+            "text_size": "h2",
+            "font_weight": "font-body",
+            "font_style": "normal",
+            "letter_spacing": 0,
+            "text_opacity": 100,
+            "text_style": "normal",
+            "use_custom_color": false,
+            "custom_color": "#000000"
+          }
+        },
+        "image_WQLRBj": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/in-the-know-SQ.png",
+            "image_height": 92,
+            "image_rounded": true,
+            "image_link": "",
+            "image_height_mobile": 90
+          }
+        },
+        "image_p6c9Fb": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/best-products-SQ.png",
+            "image_height": 80,
+            "image_rounded": true,
+            "image_link": "",
+            "image_height_mobile": 90
+          }
+        },
+        "image_i3axe6": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/dragons-den-SQ.png",
+            "image_height": 80,
+            "image_rounded": true,
+            "image_link": "",
+            "image_height_mobile": 90
+          }
+        },
+        "image_rMjhMM": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/good-good-SQ.png",
+            "image_height": 80,
+            "image_rounded": true,
+            "image_link": "",
+            "image_height_mobile": 90
+          }
+        },
+        "image_9EAm3A": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/megyn-kelly-SQ.png",
+            "image_height": 80,
+            "image_rounded": true,
+            "image_link": "",
+            "image_height_mobile": 90
+          }
+        },
+        "image_jMRmem": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/genius-club-SQ.png",
+            "image_height": 80,
+            "image_rounded": true,
+            "image_link": "",
+            "image_height_mobile": 90
+          }
+        },
+        "image_DETiEj": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/viral-trend-SQ.png",
+            "image_height": 80,
+            "image_rounded": true,
+            "image_link": "",
+            "image_height_mobile": 90
+          }
+        },
+        "image_ChgfPM": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Mornig-Live-SQ.png",
+            "image_height": 80,
+            "image_rounded": true,
+            "image_link": "",
+            "image_height_mobile": 90
+          }
+        },
+        "text_QcbBQ9": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Tell customers about a promotion",
+            "text_link": "",
+            "text_size": "h2",
+            "font_weight": "font-body",
+            "font_style": "normal",
+            "letter_spacing": 0,
+            "text_opacity": 100,
+            "text_style": "normal",
+            "use_custom_color": false,
+            "custom_color": "#000000"
+          }
+        }
+      },
+      "block_order": [
+        "text_eJYFM7",
+        "image_WQLRBj",
+        "image_p6c9Fb",
+        "image_i3axe6",
+        "image_rMjhMM",
+        "image_9EAm3A",
+        "image_jMRmem",
+        "image_DETiEj",
+        "image_ChgfPM",
+        "text_QcbBQ9"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "vertical_alignment": "center",
+        "direction": "left",
+        "pause_on_hover": true,
+        "speed": 0.2,
+        "h_spacing": 50,
+        "v_spacing": 26,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "show_divider": true,
+        "divider_layout": "vertical"
+      }
+    },
+    "products_bundle_cFjE73": {
+      "type": "products-bundle",
+      "blocks": {
+        "product_bNtrwr": {
+          "type": "product",
+          "settings": {
+            "product": "doorjammer-portable",
+            "color_scheme": "",
+            "horizontal_position": 21,
+            "vertical_position": 47
+          }
+        },
+        "product_tNmVzg": {
+          "type": "product",
+          "settings": {
+            "product": "doorjammer-lockdown",
+            "color_scheme": "",
+            "horizontal_position": 77,
+            "vertical_position": 48
+          }
+        }
+      },
+      "block_order": [
+        "product_bNtrwr",
+        "product_tNmVzg"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "image": "shopify://shop_images/Compare-1.jpg",
+        "heading": "",
+        "heading_size": "h1",
+        "heading_highlight_style": "none",
+        "subheading": "",
+        "description": "",
+        "padding_top": 100,
+        "padding_bottom": 0,
+        "show_section_divider": false,
+        "divider_width": "fixed"
+      }
+    },
+    "multicolumn_mQAQbW": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_6be7nJ": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/DJ3-how-to-use-img-1-2025.png",
+            "image_width": "full",
+            "title": "1",
+            "heading_size": "h4",
+            "text": "<p>Insert the flat part of DoorJammer all the way under the door directly beneath the handle or where the handle would be</p>",
+            "text_size": "text-lg",
+            "button_label": "",
+            "button_style": "btn--underline",
+            "button_link": "",
+            "mobile_layout": "inherit"
+          }
+        },
+        "column_m4RcYP": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/DJ3-how-to-use-img-2-2025.png",
+            "image_width": "full",
+            "title": "2",
+            "heading_size": "h4",
+            "text": "<p>Twist the screw<strong> </strong>clockwise to extend the foot until it is firm against the floor</p>",
+            "text_size": "text-lg",
+            "button_label": "",
+            "button_style": "btn--underline",
+            "button_link": "",
+            "mobile_layout": "inherit"
+          }
+        },
+        "column_bRpkxq": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/DJ3-how-to-use-img-3-2025.png",
+            "image_width": "full",
+            "title": "3",
+            "heading_size": "h4",
+            "text": "<p>Pull the handle to check that the door is secure</p>",
+            "text_size": "text-lg",
+            "button_label": "",
+            "button_style": "btn--underline",
+            "button_link": "",
+            "mobile_layout": "inherit"
+          }
+        }
+      },
+      "block_order": [
+        "column_6be7nJ",
+        "column_m4RcYP",
+        "column_bRpkxq"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "heading": "How To Use",
+        "heading_size": "h1",
+        "heading_highlight_style": "none",
+        "subheading": "",
+        "description": "",
+        "text_size": "text-base",
+        "column_alignment": "center",
+        "columns_desktop": 3,
+        "column_gap": "large",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 100,
+        "padding_bottom": 100,
+        "show_section_divider": false,
+        "divider_width": "fixed"
+      }
+    },
+    "video_tBDDmK": {
+      "type": "video",
+      "settings": {
+        "container": "fixed",
+        "video_url": "https://www.youtube.com/watch?v=AQ6FrzU9WDM",
+        "video_ratio": "adapt",
+        "description": "",
+        "enable_video_autoplay": true,
+        "enable_video_looping": true,
+        "enable_parallax": false,
+        "parallax_direction": "vertical",
+        "padding_top": 16,
+        "padding_bottom": 54,
+        "show_section_divider": false,
+        "divider_width": "fixed"
+      }
+    },
+    "card_images_YfYkKC": {
+      "type": "card-images",
+      "blocks": {
+        "image_card_wqEYFA": {
+          "type": "image_card",
+          "settings": {
+            "color_scheme": "",
+            "image_overlay_opacity": 0,
+            "heading": "Image card",
+            "heading_size": "hd2",
+            "subheading": "Add a tagline",
+            "description": "<p>Tell your brand's story through images</p>",
+            "description_size": "text-lg",
+            "button_label": "Button label",
+            "button_style": "btn--primary",
+            "content_position": "middle-left",
+            "content_alignment": "left",
+            "content_spacing": "large",
+            "card_link": "",
+            "content_position_mobile": "top-center",
+            "content_alignment_mobile": "center"
+          }
+        },
+        "image_card_gQwfAa": {
+          "type": "image_card",
+          "settings": {
+            "color_scheme": "",
+            "image_overlay_opacity": 0,
+            "heading": "Image card",
+            "heading_size": "hd2",
+            "subheading": "Add a tagline",
+            "description": "<p>Tell your brand's story through images</p>",
+            "description_size": "text-lg",
+            "button_label": "Button label",
+            "button_style": "btn--primary",
+            "content_position": "middle-left",
+            "content_alignment": "left",
+            "content_spacing": "large",
+            "card_link": "",
+            "content_position_mobile": "top-center",
+            "content_alignment_mobile": "center"
+          }
+        },
+        "image_card_944yhH": {
+          "type": "image_card",
+          "settings": {
+            "color_scheme": "",
+            "image_overlay_opacity": 0,
+            "heading": "Image card",
+            "heading_size": "hd2",
+            "subheading": "Add a tagline",
+            "description": "<p>Tell your brand's story through images</p>",
+            "description_size": "text-lg",
+            "button_label": "Button label",
+            "button_style": "btn--primary",
+            "content_position": "middle-left",
+            "content_alignment": "left",
+            "content_spacing": "large",
+            "card_link": "",
+            "content_position_mobile": "top-center",
+            "content_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "image_card_wqEYFA",
+        "image_card_gQwfAa",
+        "image_card_944yhH"
+      ],
+      "disabled": true,
+      "settings": {
+        "color_scheme": "",
+        "subheading": "",
+        "heading": "Card images",
+        "heading_size": "h1",
+        "heading_highlight_style": "none",
+        "description": "",
+        "description_size": "text-base",
+        "image_ratio": "adapt",
+        "enable_equal_height": false,
+        "columns_desktop": 2,
+        "column_gap": "extra-small",
+        "enable_slider": true,
+        "padding_top": 100,
+        "padding_bottom": 0,
+        "show_section_divider": true,
+        "divider_width": "full"
+      }
+    },
+    "feature_list_cW3d9c": {
+      "type": "feature-list",
+      "blocks": {
+        "feature_item_VbCwL3": {
+          "type": "feature_item",
+          "settings": {
+            "color_scheme": "",
+            "icon": "gear",
+            "icon_style": "btn--primary",
+            "text": "Immovable"
+          }
+        },
+        "feature_item_NzxQGa": {
+          "type": "feature_item",
+          "settings": {
+            "color_scheme": "",
+            "icon": "star-four",
+            "icon_style": "btn--primary",
+            "text": "Hassle-Free"
+          }
+        },
+        "feature_item_yyNV9A": {
+          "type": "feature_item",
+          "settings": {
+            "color_scheme": "",
+            "icon": "seal-check",
+            "icon_style": "btn--primary",
+            "text": "Instant"
+          }
+        },
+        "feature_item_nzApVh": {
+          "type": "feature_item",
+          "settings": {
+            "color_scheme": "",
+            "icon": "certificate",
+            "icon_style": "btn--primary",
+            "text": "Impact Tested"
+          }
+        },
+        "feature_item_4XqDQr": {
+          "type": "feature_item",
+          "settings": {
+            "color_scheme": "",
+            "icon": "confetti",
+            "icon_style": "btn--primary",
+            "text": "Award-Winning"
+          }
+        }
+      },
+      "block_order": [
+        "feature_item_VbCwL3",
+        "feature_item_NzxQGa",
+        "feature_item_yyNV9A",
+        "feature_item_nzApVh",
+        "feature_item_4XqDQr"
+      ],
+      "settings": {
+        "color_scheme": "scheme-2",
+        "subheading": "",
+        "heading": "",
+        "heading_size": "h2",
+        "heading_highlight_style": "none",
+        "description": "",
+        "text_size": "text-base",
+        "item_alignment": "center",
+        "icon_size": "extra-medium",
+        "swipe_on_mobile": true,
+        "padding_top": 20,
+        "padding_bottom": 20,
+        "show_section_divider": false,
+        "divider_width": "fixed"
+      }
+    },
+    "rich_text_7rBwdd": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_cUbnWW": {
+          "type": "heading",
+          "settings": {
+            "heading": "DoorJammer has won multiple awards,",
+            "heading_size": "h1",
+            "heading_highlight_style": "none"
+          }
+        },
+        "button_PeGbeL": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style": "btn--underline"
+          }
+        }
+      },
+      "block_order": [
+        "heading_cUbnWW",
+        "button_PeGbeL"
+      ],
+      "disabled": true,
+      "settings": {
+        "color_scheme": "",
+        "content_alignment": "center",
+        "padding_top": 60,
+        "padding_bottom": 0,
+        "show_section_divider": false,
+        "divider_width": "fixed"
+      }
+    },
+    "custom_content_rhXbV3": {
+      "type": "custom-content",
+      "blocks": {
+        "image_card_g7LinJ": {
+          "type": "image_card",
+          "settings": {
+            "color_scheme": "scheme-inverse",
+            "image_ratio": "adapt",
+            "image_overlay_opacity": 0,
+            "heading": "Image card",
+            "heading_size": "h1",
+            "heading_highlight_style": "none",
+            "subheading": "Add a tagline",
+            "description": "",
+            "button_label": "Button label",
+            "button_style": "btn--primary",
+            "content_position": "top-center",
+            "content_alignment": "center",
+            "content_spacing": "large",
+            "card_link": "",
+            "color_scheme_mobile": "scheme-inverse",
+            "show_text_below": false,
+            "content_alignment_mobile": "center",
+            "width": "50%",
+            "alignment": "start",
+            "block_custom_class": ""
+          }
+        },
+        "collections_Q3fY6f": {
+          "type": "collections",
+          "settings": {
+            "collection_list": [],
+            "hide_collection_name": false,
+            "button_label": "",
+            "button_style": "btn--primary",
+            "limit": 4,
+            "columns": 2,
+            "column_gap": "extra-small",
+            "row_gap": "inherit",
+            "enable_slider": true,
+            "pcard_image_ratio": "",
+            "columns_mobile": "2",
+            "swipe_on_mobile": false,
+            "width": "50%",
+            "alignment": "start",
+            "block_custom_class": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_card_g7LinJ",
+        "collections_Q3fY6f"
+      ],
+      "disabled": true,
+      "settings": {
+        "container": "fixed",
+        "color_scheme": "",
+        "enable_sticky_column": true,
+        "heading": "",
+        "heading_size": "h1",
+        "heading_highlight_style": "none",
+        "subheading": "",
+        "description": "",
+        "column_gap": "large",
+        "row_gap": "inherit",
+        "swipe_on_mobile": false,
+        "columns_mobile": "1",
+        "padding_top": 100,
+        "padding_bottom": 0,
+        "show_section_divider": false,
+        "divider_width": "fixed"
+      }
+    },
+    "image_with_text_MgddA8": {
+      "type": "image-with-text",
+      "blocks": {
+        "subheading_XLgqVJ": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "For Instant Peace Of Mind"
+          }
+        },
+        "heading_J7mctK": {
+          "type": "heading",
+          "settings": {
+            "heading": "The Original Portable Door Locking Devices",
+            "heading_size": "hd2",
+            "heading_highlight_style": "none"
+          }
+        },
+        "text_A3Dahr": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Thanks to a patented system of hinges and angles, force from outside the door is redirected downwards, wedging DoorJammer firmly into the ground.</p><p>The easy to use devices fit by hand and immediately work on almost any inward-opening door, even without a lock.</p><p>DoorJammers install in seconds without tools and is removable in a hurry - just pull the handle upward. The quick-release lifts DoorJammer away without fuss.</p>",
+            "text_size": "text-base"
+          }
+        },
+        "button_jAUX49": {
+          "type": "button",
+          "settings": {
+            "button_label": "Find Out More",
+            "button_link": "shopify://pages/how-to-use",
+            "button_style": "btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_XLgqVJ",
+        "heading_J7mctK",
+        "text_A3Dahr",
+        "button_jAUX49"
+      ],
+      "settings": {
+        "section_color_scheme": "",
+        "color_scheme": "scheme-d3c4c0a8-8008-4fbe-9cb6-8b6689dfa03c",
+        "image": "shopify://shop_images/Due-image-v2.png",
+        "image_height": "adapt",
+        "layout": "text_first",
+        "desktop_content_position": "center",
+        "desktop_content_alignment": "center",
+        "enable_parallax": false,
+        "parallax_direction": "vertical",
+        "mobile_content_alignment": "left",
+        "padding_top": 54,
+        "padding_bottom": 0,
+        "show_section_divider": false,
+        "divider_width": "fixed"
+      }
+    },
+    "video_with_text_NWwyqa": {
+      "type": "video-with-text",
+      "blocks": {
+        "subheading_EYikcD": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "Add a tagline"
+          }
+        },
+        "heading_nGp9QN": {
+          "type": "heading",
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1",
+            "heading_highlight_style": "none"
+          }
+        },
+        "text_ndGeLF": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "text_size": "text-base"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_EYikcD",
+        "heading_nGp9QN",
+        "text_ndGeLF"
+      ],
+      "disabled": true,
+      "settings": {
+        "color_scheme": "",
+        "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "video_ratio": "4/3",
+        "description": "",
+        "enable_video_autoplay": false,
+        "enable_video_looping": false,
+        "video_placement": "first",
+        "enable_parallax": false,
+        "parallax_direction": "vertical",
+        "text_alignment": "left",
+        "padding_top": 50,
+        "padding_bottom": 50,
+        "show_section_divider": false,
+        "divider_width": "fixed"
+      }
+    },
+    "multicolumn_i6RxG9": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_yfVhVb": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/DJ3-image-resized_1.png",
+            "image_width": "full",
+            "title": "",
+            "heading_size": "h4",
+            "text": "",
+            "text_size": "text-base",
+            "button_label": "",
+            "button_style": "btn--underline",
+            "button_link": "",
+            "mobile_layout": "inherit"
+          }
+        },
+        "column_38KEfY": {
+          "type": "column",
+          "settings": {
+            "image_width": "medium",
+            "title": "DoorJammer",
+            "heading_size": "h4",
+            "text": "<p><strong>Height:</strong> 108mm </p><p><strong>Width:</strong> 40mm</p><p><strong>Depth:</strong> 70mm</p><p><strong>Weight: </strong>210g</p><p><strong>Minimum Door Clearance:</strong> 3mm</p>",
+            "text_size": "text-base",
+            "button_label": "BUY NOW",
+            "button_style": "btn--secondary",
+            "button_link": "",
+            "mobile_layout": "inherit"
+          }
+        },
+        "column_iRTNPY": {
+          "type": "column",
+          "settings": {
+            "image_width": "medium",
+            "title": "Lockdown",
+            "heading_size": "h4",
+            "text": "<p><strong>Height:</strong> 192mm</p><p><strong>Width:</strong> 70mm</p><p><strong>Depth:</strong> 98mm</p><p><strong>Weight:</strong> 810g</p><p><strong>Minimum Door Clearance:</strong> 3mm</p>",
+            "text_size": "text-base",
+            "button_label": "BUY NOW",
+            "button_style": "btn--secondary",
+            "button_link": "",
+            "mobile_layout": "inherit"
+          }
+        },
+        "column_LhAJRK": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/DJ4-24_1.png",
+            "image_width": "full",
+            "title": "",
+            "heading_size": "h4",
+            "text": "",
+            "text_size": "text-base",
+            "button_label": "",
+            "button_style": "btn--underline",
+            "button_link": "",
+            "mobile_layout": "inherit"
+          }
+        }
+      },
+      "block_order": [
+        "column_yfVhVb",
+        "column_38KEfY",
+        "column_iRTNPY",
+        "column_LhAJRK"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "heading": "Dimensions",
+        "heading_size": "h1",
+        "heading_highlight_style": "none",
+        "subheading": "",
+        "description": "",
+        "text_size": "text-base",
+        "column_alignment": "left",
+        "columns_desktop": 4,
+        "column_gap": "large",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 50,
+        "padding_bottom": 50,
+        "show_section_divider": false,
+        "divider_width": "fixed"
+      }
+    },
+    "products_showcase_9KVeQe": {
+      "type": "products-showcase",
+      "disabled": true,
+      "settings": {
+        "color_scheme": "",
+        "heading": "Featured Products",
+        "heading_size": "h2",
+        "heading_highlight_style": "none",
+        "products": [
+          "doorjammer-lockdown",
+          "doorjammer-portable"
+        ],
+        "pcard_title_size": "hd3",
+        "pcard_description_display": "3-lines",
+        "pcard_description_size": "text-lg",
+        "pcard_image_ratio": "3/4",
+        "pcard_show_vendor": true,
+        "pcard_show_type": false,
+        "pcard_button_label": "BUY NOW",
+        "padding_top": 100,
+        "padding_bottom": 100,
+        "show_section_divider": false,
+        "divider_width": "fixed"
+      }
+    },
+    "custom_content_4QtJGA": {
+      "type": "custom-content",
+      "blocks": {
+        "text_card_with_image_49pQJY": {
+          "type": "text_card_with_image",
+          "settings": {
+            "color_scheme": "scheme-d3c4c0a8-8008-4fbe-9cb6-8b6689dfa03c",
+            "image_ratio": "adapt",
+            "image_width": 60,
+            "heading": "Bulk Order Discounts",
+            "heading_size": "h2",
+            "heading_highlight_style": "none",
+            "subheading": "",
+            "description": "<p>Are you looking to buy multiple DoorJammers for a school or business? Contact us today to discuss available discounts for large quantity orders...</p>",
+            "text_size": "text-base",
+            "button_label": "Get In Touch",
+            "button_link": "shopify://pages/contact",
+            "button_style": "btn--primary",
+            "width": "100%",
+            "alignment": "center",
+            "full_column_height": false,
+            "block_custom_class": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_card_with_image_49pQJY"
+      ],
+      "settings": {
+        "container": "fixed",
+        "color_scheme": "",
+        "enable_sticky_column": false,
+        "heading": "",
+        "heading_size": "h1",
+        "heading_highlight_style": "none",
+        "subheading": "",
+        "description": "",
+        "column_gap": "medium",
+        "row_gap": "large",
+        "swipe_on_mobile": false,
+        "columns_mobile": "1",
+        "padding_top": 20,
+        "padding_bottom": 50,
+        "show_section_divider": false,
+        "divider_width": "fixed"
+      }
+    },
+    "featured_product_pDzr3q": {
+      "type": "featured-product",
+      "blocks": {
+        "badges_bKdxRt": {
+          "type": "badges",
+          "settings": {
+            "show_soldout_badge": true,
+            "show_sale_badge": true,
+            "sale_badge_type": "percentage"
+          }
+        },
+        "title_wDBN8V": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "price_YVJ6Xr": {
+          "type": "price",
+          "settings": {}
+        },
+        "description_CfTATU": {
+          "type": "description",
+          "settings": {}
+        },
+        "inventory_B3RhHJ": {
+          "type": "inventory",
+          "settings": {
+            "text_style": "body",
+            "inventory_threshold": 10,
+            "show_inventory_quantity": true
+          }
+        },
+        "variant_picker_yW3JmL": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button",
+            "button_style": "standard",
+            "enable_color_swatches": true,
+            "swatch_type": "color_swatch",
+            "size_title": "Size",
+            "size_chart_from_page": ""
+          }
+        },
+        "buy_buttons_tiC8YR": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_quantity_selector": true,
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true
+          }
+        },
+        "icon_with_text_AgdrmW": {
+          "type": "icon-with-text",
+          "settings": {
+            "layout": "horizontal",
+            "title_font": "body",
+            "title_size": "text-base",
+            "icon_1": "seal-check",
+            "heading_1": "PAS24 Impact Tested",
+            "icon_2": "star-four",
+            "heading_2": "12 month warranty",
+            "icon_3": "star-four",
+            "heading_3": ""
+          }
+        },
+        "addons_rGgJaJ": {
+          "type": "addons",
+          "settings": {
+            "show_share": true,
+            "show_ask_question": true
+          }
+        }
+      },
+      "block_order": [
+        "badges_bKdxRt",
+        "title_wDBN8V",
+        "price_YVJ6Xr",
+        "description_CfTATU",
+        "inventory_B3RhHJ",
+        "variant_picker_yW3JmL",
+        "buy_buttons_tiC8YR",
+        "icon_with_text_AgdrmW",
+        "addons_rGgJaJ"
+      ],
+      "settings": {
+        "product": "twin-pack-doorjammer-lockdown",
+        "color_scheme": "scheme-1",
+        "enable_sticky_info": true,
+        "media_size": "large",
+        "mobile_thumbnails": "hide",
+        "enable_image_zoom": true,
+        "enable_video_looping": false,
+        "padding_top": 50,
+        "padding_bottom": 50,
+        "show_section_divider": false,
+        "divider_width": "fixed"
+      }
+    },
+    "featured_products_tab_yYcGgw": {
+      "type": "featured-products-tab",
+      "blocks": {
+        "tab_pcLDec": {
+          "type": "tab",
+          "settings": {
+            "title": "Example title",
+            "description": "<p>Use this section to promote products that are on sale or part of a special promotion by prominently and attractively showcasing selected items.</p>",
+            "products": [],
+            "collection": ""
+          }
+        },
+        "tab_NLRDMg": {
+          "type": "tab",
+          "settings": {
+            "title": "Example title",
+            "description": "<p>Use this section to promote products that are on sale or part of a special promotion by prominently and attractively showcasing selected items.</p>",
+            "products": [],
+            "collection": ""
+          }
+        },
+        "tab_hhgdKc": {
+          "type": "tab",
+          "settings": {
+            "title": "Example title",
+            "description": "<p>Use this section to promote products that are on sale or part of a special promotion by prominently and attractively showcasing selected items.</p>",
+            "products": [],
+            "collection": ""
+          }
+        },
+        "tab_PQhFrR": {
+          "type": "tab",
+          "settings": {
+            "title": "Example title",
+            "description": "<p>Use this section to promote products that are on sale or part of a special promotion by prominently and attractively showcasing selected items.</p>",
+            "products": [],
+            "collection": ""
+          }
+        }
+      },
+      "block_order": [
+        "tab_pcLDec",
+        "tab_NLRDMg",
+        "tab_hhgdKc",
+        "tab_PQhFrR"
+      ],
+      "disabled": true,
+      "settings": {
+        "color_scheme": "",
+        "enable_video_autoplay": true,
+        "heading": "Featured products tab",
+        "heading_size": "h1",
+        "heading_highlight_style": "none",
+        "subheading": "Add a tagline",
+        "description": "",
+        "description_size": "text-base",
+        "limit": 4,
+        "column_gap": "medium",
+        "row_gap": "inherit",
+        "pcard_image_ratio": "3/4",
+        "pcard_thumbnail_ratio": "",
+        "swipe_on_mobile": true,
+        "padding_top": 100,
+        "padding_bottom": 100,
+        "show_section_divider": false,
+        "divider_width": "fixed"
+      }
+    },
+    "testimonials_8JHr3L": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial_dhi3Xf": {
+          "type": "testimonial",
+          "settings": {
+            "text": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.</p>",
+            "author": "Author's name",
+            "bio": "",
+            "product": "",
+            "icon": "none"
+          }
+        },
+        "testimonial_D7Mq7i": {
+          "type": "testimonial",
+          "settings": {
+            "text": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.</p>",
+            "author": "Author's name",
+            "bio": "",
+            "product": "",
+            "icon": "none"
+          }
+        },
+        "testimonial_33tAjm": {
+          "type": "testimonial",
+          "settings": {
+            "text": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.</p>",
+            "author": "Author's name",
+            "bio": "",
+            "product": "",
+            "icon": "none"
+          }
+        },
+        "testimonial_dDRMwy": {
+          "type": "testimonial",
+          "settings": {
+            "text": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.</p>",
+            "author": "Author's name",
+            "bio": "",
+            "product": "",
+            "icon": "none"
+          }
+        },
+        "testimonial_RgfDDw": {
+          "type": "testimonial",
+          "settings": {
+            "text": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.</p>",
+            "author": "Author's name",
+            "bio": "",
+            "product": "",
+            "icon": "none"
+          }
+        },
+        "testimonial_abi6JN": {
+          "type": "testimonial",
+          "settings": {
+            "text": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.</p>",
+            "author": "Author's name",
+            "bio": "",
+            "product": "",
+            "icon": "none"
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_dhi3Xf",
+        "testimonial_D7Mq7i",
+        "testimonial_33tAjm",
+        "testimonial_dDRMwy",
+        "testimonial_RgfDDw",
+        "testimonial_abi6JN"
+      ],
+      "disabled": true,
+      "settings": {
+        "color_scheme": "scheme-2",
+        "heading": "Testimonials",
+        "heading_size": "h2",
+        "heading_highlight_style": "none",
+        "subheading": "",
+        "description": "",
+        "text_size": "text-base",
+        "card_color_scheme": "",
+        "card_layout": "1",
+        "columns_desktop": 4,
+        "column_gap": "medium",
+        "enable_slider": true,
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 100,
+        "padding_bottom": 80,
+        "show_section_divider": false,
+        "divider_width": "fixed"
+      }
+    },
+    "collapsible_tabs_KNKLiF": {
+      "type": "collapsible-tabs",
+      "blocks": {
+        "collapsible_item_t7UtgE": {
+          "type": "collapsible_item",
+          "settings": {
+            "icon": "none",
+            "heading": "How much space is needed under the door to use DoorJammer?",
+            "content": "<p>You will need a minimum of 3mm to fit DoorJammer. The maximum gap for DoorJammer is approximately 33mm and for Lockdown, it's 42mm.</p>",
+            "custom_liquid": "",
+            "page": "",
+            "open": true
+          }
+        },
+        "collapsible_item_AMx7Wd": {
+          "type": "collapsible_item",
+          "settings": {
+            "icon": "none",
+            "heading": "Does DoorJammer fit to a uPVC door?",
+            "content": "<p>DoorJammer requires a minimum 3mm gap under a door to fit - most uPVC doors do not have this gap.</p>",
+            "custom_liquid": "",
+            "page": "",
+            "open": false
+          }
+        },
+        "collapsible_item_rUAHxc": {
+          "type": "collapsible_item",
+          "settings": {
+            "icon": "none",
+            "heading": "Can I take my DoorJammer onboard a plane in overhead luggage?",
+            "content": "<p>Yes, DoorJammer is TSA-friendly, compact and lightweight.</p>",
+            "custom_liquid": "",
+            "page": "",
+            "open": false
+          }
+        },
+        "collapsible_item_JCwmkt": {
+          "type": "collapsible_item",
+          "settings": {
+            "icon": "none",
+            "heading": "What materials are used to make DoorJammer?",
+            "content": "<p>We only use high-grade steel to achieve DoorJammer's incredible strength. Smaller parts and accessories are rubber and plastic.</p>",
+            "custom_liquid": "",
+            "page": "",
+            "open": false
+          }
+        },
+        "image_card_jbgAcV": {
+          "type": "image_card",
+          "settings": {
+            "color_scheme": "scheme-1",
+            "desktop_image_position": "left",
+            "image_width": 50,
+            "alignment": "start",
+            "image": "shopify://shop_images/Tag-Us-CTA-2021-DJ.png",
+            "image_ratio": "adapt",
+            "image_overlay_opacity": 0,
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "description": "",
+            "button_label": "",
+            "button_style": "btn--primary",
+            "content_position": "bottom-center",
+            "content_alignment": "center",
+            "content_spacing": "medium",
+            "card_link": "",
+            "order_first": true
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_item_t7UtgE",
+        "collapsible_item_AMx7Wd",
+        "collapsible_item_rUAHxc",
+        "collapsible_item_JCwmkt",
+        "image_card_jbgAcV"
+      ],
+      "settings": {
+        "container": "fixed",
+        "color_scheme": "scheme-2",
+        "header_layout": "standing-column",
+        "heading": "FAQs",
+        "heading_size": "h2",
+        "heading_highlight_style": "none",
+        "subheading": "",
+        "description": "<p>Explore our frequently asked questions for more information on our DoorJammer portable door lock range.</p><p>Click the button below to see all questions.</p><p>Still unsure? Feel free to reach out to our team on +44 (0) 1424 239284 or <a href=\"mailto:sales@door-jammer.co.uk\" title=\"mailto:salesuk@door-jammer.com\">salesuk@door-jammer.com</a></p>",
+        "text_size": "text-base",
+        "button_label": "See All FAQs",
+        "button_link": "shopify://pages/faq",
+        "button_style": "btn--primary",
+        "column_gap": "large",
+        "row_gap": "large",
+        "item_style": "card",
+        "item_color_scheme": "scheme-1",
+        "item_heading_font": "heading",
+        "item_heading_size": "h5",
+        "item_icon_size": "extra-large",
+        "padding_top": 60,
+        "padding_bottom": 100,
+        "show_section_divider": false,
+        "divider_width": "fixed"
+      }
+    },
+    "rich_text_J3XnPC": {
+      "type": "rich-text",
+      "settings": {
+        "color_scheme": "",
+        "content_alignment": "center",
+        "padding_top": 100,
+        "padding_bottom": 0,
+        "show_section_divider": false,
+        "divider_width": "fixed"
+      }
+    },
+    "custom_content_dxQmWd": {
+      "type": "custom-content",
+      "blocks": {
+        "image_card_cGCnqG": {
+          "type": "image_card",
+          "settings": {
+            "color_scheme": "",
+            "image": "shopify://shop_images/DJ-being-fitted-2.png",
+            "image_ratio": "adapt",
+            "image_overlay_opacity": 0,
+            "heading": "",
+            "heading_size": "h2",
+            "heading_highlight_style": "none",
+            "subheading": "",
+            "description": "",
+            "button_label": "About Us",
+            "button_style": "btn--primary",
+            "content_position": "middle-center",
+            "content_alignment": "center",
+            "content_spacing": "large",
+            "card_link": "shopify://pages/about-doorjammer",
+            "color_scheme_mobile": "scheme-1",
+            "show_text_below": false,
+            "content_alignment_mobile": "center",
+            "width": "33%",
+            "alignment": "center",
+            "block_custom_class": ""
+          }
+        },
+        "image_card_GKVG6K": {
+          "type": "image_card",
+          "settings": {
+            "color_scheme": "",
+            "image": "shopify://shop_images/DJ3-AMAZON-Lifestyle-5.png",
+            "image_ratio": "adapt",
+            "image_overlay_opacity": 0,
+            "heading": "",
+            "heading_size": "h2",
+            "heading_highlight_style": "none",
+            "subheading": "",
+            "description": "",
+            "button_label": "Delivery & Returns",
+            "button_style": "btn--primary",
+            "content_position": "middle-center",
+            "content_alignment": "center",
+            "content_spacing": "large",
+            "card_link": "shopify://pages/delivery-returns",
+            "color_scheme_mobile": "",
+            "show_text_below": false,
+            "content_alignment_mobile": "center",
+            "width": "33%",
+            "alignment": "center",
+            "block_custom_class": ""
+          }
+        },
+        "image_card_6PehkE": {
+          "type": "image_card",
+          "settings": {
+            "color_scheme": "",
+            "image": "shopify://shop_images/DoorJammer-Door-2.png",
+            "image_ratio": "adapt",
+            "image_overlay_opacity": 0,
+            "heading": "",
+            "heading_size": "h2",
+            "heading_highlight_style": "none",
+            "subheading": "",
+            "description": "",
+            "button_label": "Contact Us",
+            "button_style": "btn--primary",
+            "content_position": "middle-center",
+            "content_alignment": "center",
+            "content_spacing": "large",
+            "card_link": "shopify://pages/contact",
+            "color_scheme_mobile": "",
+            "show_text_below": false,
+            "content_alignment_mobile": "center",
+            "width": "33%",
+            "alignment": "center",
+            "block_custom_class": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_card_cGCnqG",
+        "image_card_GKVG6K",
+        "image_card_6PehkE"
+      ],
+      "settings": {
+        "container": "fixed",
+        "color_scheme": "",
+        "enable_sticky_column": false,
+        "heading": "",
+        "heading_size": "h1",
+        "heading_highlight_style": "none",
+        "subheading": "",
+        "description": "",
+        "column_gap": "medium",
+        "row_gap": "inherit",
+        "swipe_on_mobile": true,
+        "columns_mobile": "1",
+        "padding_top": 60,
+        "padding_bottom": 100,
+        "show_section_divider": false,
+        "divider_width": "fixed"
+      }
+    }
+  },
+  "order": [
+    "slideshow_q3U4Jn",
+    "product_tabs_iJHLzK",
+    "highlight_text_with_image_9KLzcX",
+    "collection_list_Pr36qH",
+    "scrolling_promotion_htQpcB",
+    "products_bundle_cFjE73",
+    "multicolumn_mQAQbW",
+    "video_tBDDmK",
+    "card_images_YfYkKC",
+    "feature_list_cW3d9c",
+    "rich_text_7rBwdd",
+    "custom_content_rhXbV3",
+    "image_with_text_MgddA8",
+    "video_with_text_NWwyqa",
+    "multicolumn_i6RxG9",
+    "products_showcase_9KVeQe",
+    "custom_content_4QtJGA",
+    "featured_product_pDzr3q",
+    "featured_products_tab_yYcGgw",
+    "testimonials_8JHr3L",
+    "collapsible_tabs_KNKLiF",
+    "rich_text_J3XnPC",
+    "custom_content_dxQmWd"
+  ]
+}

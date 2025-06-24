@@ -1,0 +1,515 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "rich_text_Mfhd8W": {
+      "type": "rich-text",
+      "blocks": {
+        "text_njLqUa": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>The Original Portable Door Lock</strong></p>",
+            "text_size": "text-base"
+          }
+        },
+        "heading_7rDUYe": {
+          "type": "heading",
+          "settings": {
+            "heading": "About DoorJammer",
+            "heading_size": "hd2",
+            "heading_highlight_style": "none"
+          }
+        }
+      },
+      "block_order": [
+        "text_njLqUa",
+        "heading_7rDUYe"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "color_scheme": "",
+        "content_alignment": "center",
+        "padding_top": 50,
+        "padding_bottom": 50,
+        "show_section_divider": false,
+        "divider_width": "fixed"
+      }
+    },
+    "collage_tabs_n8PckJ": {
+      "type": "collage-tabs",
+      "blocks": {
+        "tab_CeYik4": {
+          "type": "tab",
+          "settings": {
+            "content_color_scheme": "",
+            "navigation_title": "Our Story",
+            "image": "shopify://shop_images/Hotel_Door.jpg",
+            "heading": "How was DoorJammer created?",
+            "heading_size": "h1",
+            "heading_highlight_style": "none",
+            "subheading": "The Original Portable Door Lock",
+            "description": "<p>DoorJammer was invented by product designer Von Saint while on holiday in Mexico.  Necessity became the mother of invention when he discovered his hotel room's broken door lock and was then forced to hold it closed the only way he could - by wedging a chair against it.</p><p>It was this unfortunately common situation that sparked the thought: \"there must be a better solution to this problem\". Von Saint Designs then began working with the Penn Elcom Group to refine, manufacture and distribute DoorJammer all over the world.</p>",
+            "text_size": "text-lg",
+            "text_alignment": "left",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "btn--primary"
+          }
+        },
+        "tab_hhjFRk": {
+          "type": "tab",
+          "settings": {
+            "content_color_scheme": "",
+            "navigation_title": "Why DoorJammer?",
+            "image": "shopify://shop_images/DJ3-30-diagram_a3fd425a-0146-442f-8216-f5816ef981da.png",
+            "heading": "What makes DoorJammer special?",
+            "heading_size": "h1",
+            "heading_highlight_style": "none",
+            "subheading": "Nearly 1 Million Units Sold",
+            "description": "<p>Since launch, our amazing story has taken more than a few twists and turns. On New Year's Day 2017, BBC's Dragon's Den aired senior directors Roger Willems and Phil Stratford's pitch for £80,000. While the Dragons didn't see a need to become involved in the already profitable venture, Roger and Phil left armed with an even greater excitement for the project.</p><p>Now with nearly a million units sold, DoorJammer has gone on to win Double Gold and Diamond awards at the British Invention Show, Silver and Finalist awards at the National Hardware Show and International Housewares Association as well as being the only portable door lock on the market to achieve the PAS24 Impact Test Certificate from Winkhaus Laboratories, and becoming Police accredited by <a href=\"https://www.securedbydesign.com/\" target=\"_blank\" title=\"Secured By Design Homepage \">Secured By Design</a>.</p>",
+            "text_size": "text-base",
+            "text_alignment": "left",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "btn--primary"
+          }
+        },
+        "tab_h9AaU9": {
+          "type": "tab",
+          "settings": {
+            "content_color_scheme": "scheme-2",
+            "navigation_title": "About us",
+            "image": "shopify://shop_images/DJ-and-LD-group.png",
+            "heading": "Who is DoorJammer?",
+            "heading_size": "h1",
+            "heading_highlight_style": "none",
+            "subheading": "",
+            "description": "<p>DoorJammer is part of the Penn Elcom Group of companies and has the worldwide rights to manufacture, market and sell DoorJammer and DoorJammer Lockdown.</p><p>DoorJammer utilizes the Penn Elcom Group of companies to manufacture and distribute DoorJammer in many countries around the world. If you have any questions about the distribution of DoorJammer in your country, please feel free to <a href=\"/pages/contact\" target=\"_blank\" title=\"Contact\">contact us</a>.</p>",
+            "text_size": "text-lg",
+            "text_alignment": "left",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "btn--primary"
+          }
+        },
+        "tab_Mfwyxx": {
+          "type": "tab",
+          "settings": {
+            "content_color_scheme": "scheme-2",
+            "navigation_title": "How To Use",
+            "image": "shopify://shop_images/DJ3-LIFESTYLE-2_b01b7d7c-2388-4cff-b5d3-42d94d08ac7b.jpg",
+            "heading": "How To Use",
+            "heading_size": "h1",
+            "heading_highlight_style": "none",
+            "subheading": "",
+            "description": "<p>DoorJammer and DoorJammer Lockdown are go-anywhere, no-hassle door barricades that don't need a fitting tool or any door modification.<br/><br/>Installation is quick and easy - just slide DoorJammer firmly under and against the door below where the handle is or would be.<br/><br/>Next, just turn the screw clockwise until firm - no need to overtighten - and installation is complete.</p>",
+            "text_size": "text-lg",
+            "text_alignment": "left",
+            "button_label": "Find Out More",
+            "button_link": "shopify://pages/how-to-use",
+            "button_style": "btn--secondary"
+          }
+        }
+      },
+      "block_order": [
+        "tab_CeYik4",
+        "tab_hhjFRk",
+        "tab_h9AaU9",
+        "tab_Mfwyxx"
+      ],
+      "name": "t:sections.collage-tabs.presets.name",
+      "settings": {
+        "color_scheme": "",
+        "heading_size": "h4",
+        "desktop_navigation_alignment": "center",
+        "desktop_image_position": "right",
+        "desktop_image_width": 50,
+        "image_aspect_ratio": "adapt",
+        "padding_top": 16,
+        "padding_bottom": 0,
+        "show_section_divider": false,
+        "divider_width": "fixed"
+      }
+    },
+    "scrolling_promotion_pdHmLH": {
+      "type": "scrolling-promotion",
+      "blocks": {
+        "text_9dgzXp": {
+          "type": "text",
+          "settings": {
+            "text": "AS SEEN ON",
+            "text_link": "",
+            "text_size": "h2",
+            "font_weight": "font-heading",
+            "font_style": "normal",
+            "letter_spacing": 0,
+            "text_opacity": 100,
+            "text_style": "normal",
+            "use_custom_color": false,
+            "custom_color": "#000000"
+          }
+        },
+        "image_dygB6r": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Mornig-Live-SQ.png",
+            "image_height": 80,
+            "image_rounded": true,
+            "image_link": "",
+            "image_height_mobile": 90
+          }
+        },
+        "image_wbRtKF": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/dragons-den-SQ.png",
+            "image_height": 80,
+            "image_rounded": true,
+            "image_link": "",
+            "image_height_mobile": 90
+          }
+        },
+        "image_bTx3Ef": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/good-good-SQ.png",
+            "image_height": 80,
+            "image_rounded": true,
+            "image_link": "",
+            "image_height_mobile": 90
+          }
+        },
+        "image_gFMGBf": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/megyn-kelly-SQ.png",
+            "image_height": 80,
+            "image_rounded": true,
+            "image_link": "",
+            "image_height_mobile": 90
+          }
+        },
+        "image_am3EtX": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/genius-club-SQ.png",
+            "image_height": 80,
+            "image_rounded": true,
+            "image_link": "",
+            "image_height_mobile": 90
+          }
+        },
+        "image_CFanNJ": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/in-the-know-SQ.png",
+            "image_height": 80,
+            "image_rounded": true,
+            "image_link": "",
+            "image_height_mobile": 90
+          }
+        },
+        "image_YNDHDM": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/best-products-SQ.png",
+            "image_height": 80,
+            "image_rounded": true,
+            "image_link": "",
+            "image_height_mobile": 90
+          }
+        },
+        "image_8cTjTa": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/viral-trend-SQ.png",
+            "image_height": 80,
+            "image_rounded": true,
+            "image_link": "",
+            "image_height_mobile": 90
+          }
+        }
+      },
+      "block_order": [
+        "text_9dgzXp",
+        "image_dygB6r",
+        "image_wbRtKF",
+        "image_bTx3Ef",
+        "image_gFMGBf",
+        "image_am3EtX",
+        "image_CFanNJ",
+        "image_YNDHDM",
+        "image_8cTjTa"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "vertical_alignment": "center",
+        "direction": "left",
+        "pause_on_hover": true,
+        "speed": 0.2,
+        "h_spacing": 50,
+        "v_spacing": 26,
+        "padding_top": 20,
+        "padding_bottom": 20,
+        "show_divider": false,
+        "divider_layout": "vertical"
+      }
+    },
+    "collapsible_tabs_zBcm89": {
+      "type": "collapsible-tabs",
+      "blocks": {
+        "heading_6fgP9A": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1",
+            "sub_heading": ""
+          }
+        },
+        "image_card_CNReQP": {
+          "type": "image_card",
+          "settings": {
+            "color_scheme": "scheme-1",
+            "desktop_image_position": "left",
+            "image_width": 50,
+            "alignment": "center",
+            "image": "shopify://shop_images/DJ-and-LD-Lifestyle-Duo.png",
+            "image_ratio": "adapt",
+            "image_overlay_opacity": 0,
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "description": "",
+            "button_label": "",
+            "button_style": "btn--primary",
+            "content_position": "bottom-center",
+            "content_alignment": "center",
+            "content_spacing": "medium",
+            "card_link": "",
+            "order_first": false
+          }
+        },
+        "collapsible_item_7XPfgb": {
+          "type": "collapsible_item",
+          "settings": {
+            "icon": "ruler",
+            "heading": "How much space is needed under the door to use DoorJammer?",
+            "content": "<p>You will need a minimum of 3mm to fit DoorJammer. The maximum gap for DoorJammer is approximately 33mm and for Lockdown, it's 42mm.</p>",
+            "custom_liquid": "",
+            "page": "",
+            "open": true
+          }
+        },
+        "collapsible_item_9Rk9Ux": {
+          "type": "collapsible_item",
+          "settings": {
+            "icon": "map-pin",
+            "heading": "Can I take my DoorJammer onbaord a plane in overhead luggage?",
+            "content": "<p>Yes, DoorJammer is TSA-friendly, compact and lightweight.</p>",
+            "custom_liquid": "",
+            "page": "",
+            "open": false
+          }
+        },
+        "collapsible_item_GM8X7E": {
+          "type": "collapsible_item",
+          "settings": {
+            "icon": "gear",
+            "heading": "How does DoorJammer work on carpet?",
+            "content": "<p>When fitted firmly, DoorJammer should remain in place, however the extension foot provided has a special grip that helps for very thick carpets.</p>",
+            "custom_liquid": "",
+            "page": "",
+            "open": false
+          }
+        },
+        "collapsible_item_jPTNg3": {
+          "type": "collapsible_item",
+          "settings": {
+            "icon": "gift",
+            "heading": "Do you have distributors and can I apply to be one?",
+            "content": "<p>Yes, we do accept a limited amount of distributors - apply by emailing us at <a href=\"mailto:saleseu@door-jammer.com\" title=\"mailto:saleseu@door-jammer.com\"><span style=\"text-decoration:underline\">saleseu@door-jammer.com</span></a></p>",
+            "custom_liquid": "",
+            "page": "",
+            "open": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_6fgP9A",
+        "image_card_CNReQP",
+        "collapsible_item_7XPfgb",
+        "collapsible_item_9Rk9Ux",
+        "collapsible_item_GM8X7E",
+        "collapsible_item_jPTNg3"
+      ],
+      "settings": {
+        "container": "fixed",
+        "color_scheme": "scheme-d3c4c0a8-8008-4fbe-9cb6-8b6689dfa03c",
+        "header_layout": "standing-column",
+        "heading": "FAQs",
+        "heading_size": "h4",
+        "heading_highlight_style": "none",
+        "subheading": "",
+        "description": "<p>Explore our frequently asked questions for more information on our DoorJammer portable door lock range.</p><p>Click the button below to see all questions.</p><p>Still unsure? Feel free to reach out to our team on +44 (0) 1424 429 641 or <a href=\"mailto:saleseu@door-jammer.com\" target=\"_blank\" title=\"mailto:saleseu@door-jammer.com\">saleseu@door-jammer.com</a></p>",
+        "text_size": "text-base",
+        "button_label": "See All FAQs",
+        "button_link": "shopify://pages/faq",
+        "button_style": "btn--primary",
+        "column_gap": "small",
+        "row_gap": "large",
+        "item_style": "standard",
+        "item_color_scheme": "",
+        "item_heading_font": "heading",
+        "item_heading_size": "h5",
+        "item_icon_size": "extra-large",
+        "padding_top": 20,
+        "padding_bottom": 40,
+        "show_section_divider": true,
+        "divider_width": "full"
+      }
+    },
+    "feature_list_qp6xWY": {
+      "type": "feature-list",
+      "blocks": {
+        "feature_item_ntp3wD": {
+          "type": "feature_item",
+          "settings": {
+            "color_scheme": "scheme-2",
+            "icon": "gear",
+            "icon_style": "btn--secondary",
+            "text": "immovable"
+          }
+        },
+        "feature_item_Q3K3hW": {
+          "type": "feature_item",
+          "settings": {
+            "color_scheme": "scheme-2",
+            "icon": "star-four",
+            "icon_style": "btn--secondary",
+            "text": "Hassle-Free"
+          }
+        },
+        "feature_item_JWBLhU": {
+          "type": "feature_item",
+          "settings": {
+            "color_scheme": "scheme-2",
+            "icon": "seal-check",
+            "icon_style": "btn--secondary",
+            "text": "Instant"
+          }
+        },
+        "feature_item_7K7zAH": {
+          "type": "feature_item",
+          "settings": {
+            "color_scheme": "scheme-2",
+            "icon": "certificate",
+            "icon_style": "btn--secondary",
+            "text": "Impact-Tested"
+          }
+        },
+        "feature_item_g7X9CG": {
+          "type": "feature_item",
+          "settings": {
+            "color_scheme": "scheme-2",
+            "icon": "confetti",
+            "icon_style": "btn--secondary",
+            "text": "Award-Winning"
+          }
+        }
+      },
+      "block_order": [
+        "feature_item_ntp3wD",
+        "feature_item_Q3K3hW",
+        "feature_item_JWBLhU",
+        "feature_item_7K7zAH",
+        "feature_item_g7X9CG"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "subheading": "",
+        "heading": "Feature list",
+        "heading_size": "h2",
+        "heading_highlight_style": "none",
+        "description": "",
+        "text_size": "text-base",
+        "item_alignment": "center",
+        "icon_size": "extra-medium",
+        "swipe_on_mobile": true,
+        "padding_top": 50,
+        "padding_bottom": 50,
+        "show_section_divider": false,
+        "divider_width": "fixed"
+      }
+    },
+    "lookbook_slider_9aNKja": {
+      "type": "lookbook-slider",
+      "blocks": {
+        "product_XP8xbm": {
+          "type": "product",
+          "settings": {
+            "product": "doorjammer-portable",
+            "top": 42,
+            "left": 15
+          }
+        },
+        "product_tqn99e": {
+          "type": "product",
+          "settings": {
+            "product": "doorjammer-lockdown",
+            "top": 22,
+            "left": 68
+          }
+        }
+      },
+      "block_order": [
+        "product_XP8xbm",
+        "product_tqn99e"
+      ],
+      "name": "t:sections.lookbook-slider.presets.name",
+      "settings": {
+        "color_scheme": "",
+        "use_color_scheme_in_container": false,
+        "heading": "",
+        "heading_size": "h1",
+        "heading_highlight_style": "none",
+        "subheading": "",
+        "description": "",
+        "description_size": "text-base",
+        "image": "shopify://shop_images/DoorJammer-2-sizes-square-EDIT.png",
+        "image_aspect_ratio": "1/1",
+        "image_position": "left",
+        "annotation_color": "light",
+        "product_image_ratio": "",
+        "product_per_slide": "1",
+        "padding_top": 10,
+        "padding_bottom": 50,
+        "show_section_divider": false,
+        "divider_width": "fixed"
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    }
+  },
+  "order": [
+    "rich_text_Mfhd8W",
+    "collage_tabs_n8PckJ",
+    "scrolling_promotion_pdHmLH",
+    "collapsible_tabs_zBcm89",
+    "feature_list_qp6xWY",
+    "lookbook_slider_9aNKja",
+    "main"
+  ]
+}
