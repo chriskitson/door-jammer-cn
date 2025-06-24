@@ -214,12 +214,13 @@
         "column_Y4Da9U": {
           "type": "column",
           "settings": {
-            "image_width": "medium",
-            "title": "Column",
+            "image": "shopify://shop_images/DJ3-how-to-use-img-3-2025_4585ce65-e2a0-4310-a473-eee035479aa9.png",
+            "image_width": "full",
+            "title": "3",
             "heading_size": "h4",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "text": "<p>Pull the handle to check that the door is secure</p>",
             "text_size": "text-base",
-            "button_label": "Button label",
+            "button_label": "",
             "button_style": "btn--underline",
             "button_link": "",
             "mobile_layout": "inherit"
@@ -250,6 +251,83 @@
         "show_section_divider": false,
         "divider_width": "fixed"
       }
+    },
+    "scrolling_promotion_ehhTff": {
+      "type": "scrolling-promotion",
+      "blocks": {
+        "text_GJqmfT": {
+          "type": "text",
+          "settings": {
+            "text": "AS SEEN ON",
+            "text_link": "",
+            "text_size": "h2",
+            "font_weight": "font-heading",
+            "font_style": "normal",
+            "letter_spacing": 0,
+            "text_opacity": 100,
+            "text_style": "normal",
+            "use_custom_color": false,
+            "custom_color": "#000000"
+          }
+        },
+        "image_zCMbwJ": {
+          "type": "image",
+          "settings": {
+            "image_height": 120,
+            "image_rounded": false,
+            "image_link": "",
+            "image_height_mobile": 90
+          }
+        },
+        "image_qKyk9P": {
+          "type": "image",
+          "settings": {
+            "image_height": 120,
+            "image_rounded": false,
+            "image_link": "",
+            "image_height_mobile": 90
+          }
+        },
+        "image_kt8nTK": {
+          "type": "image",
+          "settings": {
+            "image_height": 120,
+            "image_rounded": false,
+            "image_link": "",
+            "image_height_mobile": 90
+          }
+        },
+        "image_88TLR3": {
+          "type": "image",
+          "settings": {
+            "image_height": 120,
+            "image_rounded": false,
+            "image_link": "",
+            "image_height_mobile": 90
+          }
+        }
+      },
+      "block_order": [
+        "text_GJqmfT",
+        "image_zCMbwJ",
+        "image_qKyk9P",
+        "image_kt8nTK",
+        "image_88TLR3"
+      ],
+      "name": "t:sections.scrolling-promotion.presets.name",
+      "settings": {
+        "color_scheme": "scheme-d3c4c0a8-8008-4fbe-9cb6-8b6689dfa03c",
+        "vertical_alignment": "center",
+        "direction": "left",
+        "pause_on_hover": true,
+        "speed": 0.2,
+        "h_spacing": 50,
+        "v_spacing": 28,
+        "padding_top": 10,
+        "padding_bottom": 10,
+        "show_divider": false,
+        "divider_layout": "vertical"
+      }
     }
   },
   "order": [
@@ -258,6 +336,7 @@
     "feature_list_yJemdQ",
     "breadcrumbs_Gxg9wp",
     "video_with_text_EgcXLA",
-    "multicolumn_jy8VPp"
+    "multicolumn_jy8VPp",
+    "scrolling_promotion_ehhTff"
   ]
 }
