@@ -215,25 +215,120 @@
         "divider_width": "fixed"
       }
     },
-    "rich_text_7rBwdd": {
-      "type": "rich-text",
+    "video_with_text_rRVqrq": {
+      "type": "video-with-text",
       "blocks": {
-        "heading_cUbnWW": {
+        "subheading_MCECPj": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "Safety For Schools, Offices & Public Buildings"
+          }
+        },
+        "heading_kpxn8L": {
           "type": "heading",
           "settings": {
-            "heading": "Talk about your brand",
+            "heading": "DoorJammer Lockdown",
             "heading_size": "h1",
             "heading_highlight_style": "none"
+          }
+        },
+        "text_UVPHCm": {
+          "type": "text",
+          "settings": {
+            "text": "<p>The award-winning and patented  DoorJammer Lockdown is the heavyweight door safety device to protect occupants during a threat. <br/><br/>Deploys in seconds without needing tools or door modification, it uses a patented system of force displacement to quickly convert a door to a barricade. </p>",
+            "text_size": "text-base"
           }
         }
       },
       "block_order": [
-        "heading_cUbnWW"
+        "subheading_MCECPj",
+        "heading_kpxn8L",
+        "text_UVPHCm"
       ],
       "settings": {
         "color_scheme": "",
-        "content_alignment": "center",
-        "padding_top": 60,
+        "video_url": "https://www.youtube.com/watch?v=Wjjy7rmIhAU",
+        "video_ratio": "adapt",
+        "description": "",
+        "enable_video_autoplay": true,
+        "enable_video_looping": true,
+        "video_placement": "first",
+        "enable_parallax": false,
+        "parallax_direction": "vertical",
+        "text_alignment": "center",
+        "padding_top": 50,
+        "padding_bottom": 50,
+        "show_section_divider": false,
+        "divider_width": "fixed"
+      }
+    },
+    "multicolumn_Mxt4d3": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_ppme79": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Lockdown-Install-1_e0f17525-703b-4a72-81c0-3c9c2132ef3f.png",
+            "image_width": "full",
+            "title": "1",
+            "heading_size": "h4",
+            "text": "<p>Insert the flat part of DoorJammer Lockdown all the way under the door directly beneath the handle or where the handle would be</p>",
+            "text_size": "text-base",
+            "button_label": "",
+            "button_style": "btn--underline",
+            "button_link": "",
+            "mobile_layout": "inherit"
+          }
+        },
+        "column_6eYcFq": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Lockdown-Install-2_256x256_dd5392e8-d4c4-4db4-9664-ab0ce7c8bf04.png",
+            "image_width": "full",
+            "title": "2",
+            "heading_size": "h4",
+            "text": "<p>Twist the screwclockwise to extend the foot until it is firm against the floor</p>",
+            "text_size": "text-base",
+            "button_label": "",
+            "button_style": "btn--underline",
+            "button_link": "",
+            "mobile_layout": "inherit"
+          }
+        },
+        "column_6mMR7m": {
+          "type": "column",
+          "settings": {
+            "image_width": "large",
+            "title": "Column",
+            "heading_size": "h4",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "text_size": "text-base",
+            "button_label": "",
+            "button_style": "btn--underline",
+            "button_link": "",
+            "mobile_layout": "inherit"
+          }
+        }
+      },
+      "block_order": [
+        "column_ppme79",
+        "column_6eYcFq",
+        "column_6mMR7m"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "heading": "How To Use",
+        "heading_size": "h1",
+        "heading_highlight_style": "none",
+        "subheading": "",
+        "description": "",
+        "text_size": "text-base",
+        "column_alignment": "center",
+        "columns_desktop": 3,
+        "column_gap": "large",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 20,
         "padding_bottom": 0,
         "show_section_divider": false,
         "divider_width": "fixed"
@@ -281,91 +376,6 @@
         "mobile_content_alignment": "left",
         "padding_top": 100,
         "padding_bottom": 0,
-        "show_section_divider": false,
-        "divider_width": "fixed"
-      }
-    },
-    "multicolumn_Mxt4d3": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_ppme79": {
-          "type": "column",
-          "settings": {
-            "image_width": "large",
-            "title": "Column",
-            "heading_size": "h4",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "text_size": "text-base",
-            "button_label": "",
-            "button_style": "btn--underline",
-            "button_link": "",
-            "mobile_layout": "inherit"
-          }
-        },
-        "column_6eYcFq": {
-          "type": "column",
-          "settings": {
-            "image_width": "large",
-            "title": "Column",
-            "heading_size": "h4",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "text_size": "text-base",
-            "button_label": "",
-            "button_style": "btn--underline",
-            "button_link": "",
-            "mobile_layout": "inherit"
-          }
-        },
-        "column_6mMR7m": {
-          "type": "column",
-          "settings": {
-            "image_width": "large",
-            "title": "Column",
-            "heading_size": "h4",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "text_size": "text-base",
-            "button_label": "",
-            "button_style": "btn--underline",
-            "button_link": "",
-            "mobile_layout": "inherit"
-          }
-        },
-        "column_Lix6qc": {
-          "type": "column",
-          "settings": {
-            "image_width": "large",
-            "title": "Column",
-            "heading_size": "h4",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "text_size": "text-base",
-            "button_label": "",
-            "button_style": "btn--underline",
-            "button_link": "",
-            "mobile_layout": "inherit"
-          }
-        }
-      },
-      "block_order": [
-        "column_ppme79",
-        "column_6eYcFq",
-        "column_6mMR7m",
-        "column_Lix6qc"
-      ],
-      "settings": {
-        "color_scheme": "",
-        "heading": "",
-        "heading_size": "h1",
-        "heading_highlight_style": "none",
-        "subheading": "",
-        "description": "",
-        "text_size": "text-base",
-        "column_alignment": "center",
-        "columns_desktop": 4,
-        "column_gap": "large",
-        "columns_mobile": "1",
-        "swipe_on_mobile": true,
-        "padding_top": 80,
-        "padding_bottom": 80,
         "show_section_divider": false,
         "divider_width": "fixed"
       }
@@ -539,53 +549,6 @@
         "divider_layout": "vertical"
       }
     },
-    "video_with_text_rRVqrq": {
-      "type": "video-with-text",
-      "blocks": {
-        "subheading_MCECPj": {
-          "type": "subheading",
-          "settings": {
-            "subheading": "Add a tagline"
-          }
-        },
-        "heading_kpxn8L": {
-          "type": "heading",
-          "settings": {
-            "heading": "Talk about your brand",
-            "heading_size": "h1",
-            "heading_highlight_style": "none"
-          }
-        },
-        "text_UVPHCm": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Pair text with an video to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "text_size": "text-lg"
-          }
-        }
-      },
-      "block_order": [
-        "subheading_MCECPj",
-        "heading_kpxn8L",
-        "text_UVPHCm"
-      ],
-      "settings": {
-        "color_scheme": "",
-        "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-        "video_ratio": "1/1",
-        "description": "",
-        "enable_video_autoplay": true,
-        "enable_video_looping": true,
-        "video_placement": "first",
-        "enable_parallax": false,
-        "parallax_direction": "vertical",
-        "text_alignment": "center",
-        "padding_top": 100,
-        "padding_bottom": 100,
-        "show_section_divider": false,
-        "divider_width": "fixed"
-      }
-    },
     "related-products": {
       "type": "related-products",
       "settings": {
@@ -615,12 +578,11 @@
     "breadcrumbs",
     "main",
     "feature_list_cW3d9c",
-    "rich_text_7rBwdd",
-    "image_with_text_MgddA8",
+    "video_with_text_rRVqrq",
     "multicolumn_Mxt4d3",
+    "image_with_text_MgddA8",
     "collapsible_tabs_phAkEE",
     "scrolling_promotion_WAekUk",
-    "video_with_text_rRVqrq",
     "related-products"
   ]
 }
