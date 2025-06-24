@@ -273,8 +273,9 @@
         "image_zCMbwJ": {
           "type": "image",
           "settings": {
-            "image_height": 120,
-            "image_rounded": false,
+            "image": "shopify://shop_images/megyn-kelly-SQ_21f29d86-d17e-4d01-a25d-cdbfe2d21131.png",
+            "image_height": 80,
+            "image_rounded": true,
             "image_link": "",
             "image_height_mobile": 90
           }
@@ -282,8 +283,9 @@
         "image_qKyk9P": {
           "type": "image",
           "settings": {
-            "image_height": 120,
-            "image_rounded": false,
+            "image": "shopify://shop_images/genius-club-SQ_5833a551-30a6-4b6a-969c-a628ec809e37.png",
+            "image_height": 80,
+            "image_rounded": true,
             "image_link": "",
             "image_height_mobile": 90
           }
@@ -291,8 +293,9 @@
         "image_kt8nTK": {
           "type": "image",
           "settings": {
-            "image_height": 120,
-            "image_rounded": false,
+            "image": "shopify://shop_images/in-the-know-SQ.png",
+            "image_height": 80,
+            "image_rounded": true,
             "image_link": "",
             "image_height_mobile": 90
           }
@@ -300,8 +303,9 @@
         "image_88TLR3": {
           "type": "image",
           "settings": {
-            "image_height": 120,
-            "image_rounded": false,
+            "image": "shopify://shop_images/good-good-SQ.png",
+            "image_height": 80,
+            "image_rounded": true,
             "image_link": "",
             "image_height_mobile": 90
           }
