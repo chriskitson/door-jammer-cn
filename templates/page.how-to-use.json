@@ -235,6 +235,7 @@
         "column_9F6ekk": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/5.png",
             "image_width": "extra-large",
             "title": "Step 1",
             "heading_size": "h4",
@@ -249,6 +250,7 @@
         "column_74K8wQ": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/6.png",
             "image_width": "extra-large",
             "title": "Step 2",
             "heading_size": "h4",
@@ -263,6 +265,7 @@
         "column_4yJA7K": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/7.png",
             "image_width": "extra-large",
             "title": "Emergency Release",
             "heading_size": "h4",
