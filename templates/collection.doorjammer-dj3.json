@@ -128,12 +128,238 @@
         "show_section_divider": false,
         "divider_width": "fixed"
       }
+    },
+    "video_with_text_EjEhqN": {
+      "type": "video-with-text",
+      "blocks": {
+        "subheading_JxCkbM": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "The Original Door Security Device"
+          }
+        },
+        "heading_DKXaC9": {
+          "type": "heading",
+          "settings": {
+            "heading": "EST. 2013",
+            "heading_size": "h1",
+            "heading_highlight_style": "none"
+          }
+        },
+        "text_BajV4w": {
+          "type": "text",
+          "settings": {
+            "text": "<p>DoorJammer was the first portable door security device of its kind. It's certified, proven and patented design continues to outperform, creating genuine peace of mind and added security for customer. </p><p>Today, we have sold over 750,000 DoorJammer worldwide, empowering travellers, enhancing home security and protecting students and schools.</p>",
+            "text_size": "text-base"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_JxCkbM",
+        "heading_DKXaC9",
+        "text_BajV4w"
+      ],
+      "name": "t:sections.video-with-text.name",
+      "settings": {
+        "color_scheme": "scheme-3",
+        "video": "shopify://files/videos/Untitled design (1).mp4",
+        "video_url": "https://www.youtube.com/watch?v=6irfIQp8tp4&t=28s",
+        "video_ratio": "adapt",
+        "description": "",
+        "enable_video_autoplay": false,
+        "enable_video_looping": false,
+        "video_placement": "first",
+        "enable_parallax": false,
+        "parallax_direction": "vertical",
+        "text_alignment": "left",
+        "padding_top": 50,
+        "padding_bottom": 50,
+        "show_section_divider": false,
+        "divider_width": "fixed"
+      }
+    },
+    "multicolumn_knadRn": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_XcBF7p": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/DJ3-how-to-use-img-1-2025_7ce246e6-6f95-44ab-928f-d17c6fc23c03.png",
+            "image_width": "full",
+            "title": "1",
+            "heading_size": "h4",
+            "text": "<p>Insert the flat part of DoorJammer all the way under the door directly beneath the handle or where the handle would be</p>",
+            "text_size": "text-base",
+            "button_label": "",
+            "button_style": "btn--underline",
+            "button_link": "",
+            "mobile_layout": "inherit"
+          }
+        },
+        "column_mXCB7Q": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/DJ3-how-to-use-img-2-2025_d3cc5396-2282-4680-8eb6-4824521a794e.png",
+            "image_width": "full",
+            "title": "2",
+            "heading_size": "h4",
+            "text": "<p>Twist the screwclockwise to extend the foot until it is firm against the floor</p>",
+            "text_size": "text-base",
+            "button_label": "",
+            "button_style": "btn--underline",
+            "button_link": "",
+            "mobile_layout": "inherit"
+          }
+        },
+        "column_CpPQHk": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/DJ3-how-to-use-img-3-2025_4585ce65-e2a0-4310-a473-eee035479aa9.png",
+            "image_width": "full",
+            "title": "3",
+            "heading_size": "h4",
+            "text": "<p>Pull the handle to check that the door is secure</p>",
+            "text_size": "text-base",
+            "button_label": "",
+            "button_style": "btn--underline",
+            "button_link": "",
+            "mobile_layout": "inherit"
+          }
+        }
+      },
+      "block_order": [
+        "column_XcBF7p",
+        "column_mXCB7Q",
+        "column_CpPQHk"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "color_scheme": "",
+        "heading": "How To Use",
+        "heading_size": "h4",
+        "heading_highlight_style": "none",
+        "subheading": "",
+        "description": "",
+        "text_size": "text-base",
+        "column_alignment": "center",
+        "columns_desktop": 3,
+        "column_gap": "large",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 50,
+        "padding_bottom": 50,
+        "show_section_divider": false,
+        "divider_width": "fixed"
+      }
+    },
+    "rich_text_tYM8q3": {
+      "type": "rich-text",
+      "blocks": {
+        "text_iaz7iF": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>For more information on how to use our DoorJammers, click the button below.</strong></p>",
+            "text_size": "text-base"
+          }
+        },
+        "button_c3DM79": {
+          "type": "button",
+          "settings": {
+            "button_label": "How To Use",
+            "button_link": "shopify://pages/how-to-use",
+            "button_style": "btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "text_iaz7iF",
+        "button_c3DM79"
+      ],
+      "settings": {
+        "color_scheme": "scheme-d3c4c0a8-8008-4fbe-9cb6-8b6689dfa03c",
+        "content_alignment": "center",
+        "padding_top": 50,
+        "padding_bottom": 50,
+        "show_section_divider": false,
+        "divider_width": "fixed"
+      }
+    },
+    "video_with_text_4twXBj": {
+      "type": "video-with-text",
+      "blocks": {
+        "heading_7j4gDw": {
+          "type": "heading",
+          "settings": {
+            "heading": "See DoorJammer in Action",
+            "heading_size": "h1",
+            "heading_highlight_style": "none"
+          }
+        },
+        "text_xtn4ng": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Watch the video to see how easy it is to feel safer in seconds...</p>",
+            "text_size": "text-base"
+          }
+        }
+      },
+      "block_order": [
+        "heading_7j4gDw",
+        "text_xtn4ng"
+      ],
+      "name": "t:sections.video-with-text.name",
+      "settings": {
+        "color_scheme": "",
+        "video_url": "https://www.youtube.com/watch?v=AQ6FrzU9WDM",
+        "cover_image": "shopify://shop_images/DJ-youtube-thumbnail.png",
+        "video_ratio": "adapt",
+        "description": "",
+        "enable_video_autoplay": false,
+        "enable_video_looping": false,
+        "video_placement": "first",
+        "enable_parallax": false,
+        "parallax_direction": "vertical",
+        "text_alignment": "left",
+        "padding_top": 50,
+        "padding_bottom": 50,
+        "show_section_divider": false,
+        "divider_width": "fixed"
+      }
+    },
+    "recently_viewed_products_q6Uz8C": {
+      "type": "recently-viewed-products",
+      "settings": {
+        "color_scheme": "",
+        "heading": "Recently viewed products",
+        "heading_size": "h1",
+        "heading_highlight_style": "none",
+        "subheading": "",
+        "description": "",
+        "limit": 8,
+        "columns": 4,
+        "column_gap": "medium",
+        "row_gap": "inherit",
+        "enable_slider": true,
+        "controls_position": "inside",
+        "pcard_image_ratio": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 50,
+        "padding_bottom": 50,
+        "show_section_divider": false,
+        "divider_width": "fixed"
+      }
     }
   },
   "order": [
     "breadcrumbs_Gxg9wp",
     "banner",
     "product-grid",
-    "feature_list_nNt4pB"
+    "feature_list_nNt4pB",
+    "video_with_text_EjEhqN",
+    "multicolumn_knadRn",
+    "rich_text_tYM8q3",
+    "video_with_text_4twXBj",
+    "recently_viewed_products_q6Uz8C"
   ]
 }
