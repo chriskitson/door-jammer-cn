@@ -251,6 +251,104 @@
         "show_section_divider": false,
         "divider_width": "fixed"
       }
+    },
+    "rich_text_cHUBfc": {
+      "type": "rich-text",
+      "blocks": {
+        "text_rD873j": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>For more information on how to use our DoorJammers, click the button below.</strong></p>",
+            "text_size": "text-base"
+          }
+        },
+        "button_b4EHR3": {
+          "type": "button",
+          "settings": {
+            "button_label": "How To Use",
+            "button_link": "shopify://pages/how-to-use",
+            "button_style": "btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "text_rD873j",
+        "button_b4EHR3"
+      ],
+      "settings": {
+        "color_scheme": "scheme-d3c4c0a8-8008-4fbe-9cb6-8b6689dfa03c",
+        "content_alignment": "center",
+        "padding_top": 50,
+        "padding_bottom": 50,
+        "show_section_divider": false,
+        "divider_width": "fixed"
+      }
+    },
+    "video_with_text_e7LENX": {
+      "type": "video-with-text",
+      "blocks": {
+        "heading_eGjUCX": {
+          "type": "heading",
+          "settings": {
+            "heading": "See DoorJammer Lockdown In Action",
+            "heading_size": "h1",
+            "heading_highlight_style": "none"
+          }
+        },
+        "text_EXJP6e": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Watch the video to see how easy it is to create a safe space in seconds...</p>",
+            "text_size": "text-base"
+          }
+        }
+      },
+      "block_order": [
+        "heading_eGjUCX",
+        "text_EXJP6e"
+      ],
+      "name": "t:sections.video-with-text.name",
+      "settings": {
+        "color_scheme": "",
+        "video_url": "https://www.youtube.com/watch?v=Wjjy7rmIhAU",
+        "cover_image": "shopify://shop_images/DJ-LD-youtube-thumbnail-4.png",
+        "video_ratio": "adapt",
+        "description": "",
+        "enable_video_autoplay": false,
+        "enable_video_looping": false,
+        "video_placement": "first",
+        "enable_parallax": false,
+        "parallax_direction": "vertical",
+        "text_alignment": "left",
+        "padding_top": 50,
+        "padding_bottom": 50,
+        "show_section_divider": false,
+        "divider_width": "fixed"
+      }
+    },
+    "recently_viewed_products_B4nVam": {
+      "type": "recently-viewed-products",
+      "settings": {
+        "color_scheme": "",
+        "heading": "Recently viewed products",
+        "heading_size": "h1",
+        "heading_highlight_style": "none",
+        "subheading": "",
+        "description": "",
+        "limit": 8,
+        "columns": 4,
+        "column_gap": "medium",
+        "row_gap": "inherit",
+        "enable_slider": true,
+        "controls_position": "inside",
+        "pcard_image_ratio": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 50,
+        "padding_bottom": 50,
+        "show_section_divider": false,
+        "divider_width": "fixed"
+      }
     }
   },
   "order": [
@@ -259,6 +357,9 @@
     "product-grid",
     "feature_list_rV8FP4",
     "video_with_text_fwiEfd",
-    "multicolumn_QN6iEt"
+    "multicolumn_QN6iEt",
+    "rich_text_cHUBfc",
+    "video_with_text_e7LENX",
+    "recently_viewed_products_B4nVam"
   ]
 }
