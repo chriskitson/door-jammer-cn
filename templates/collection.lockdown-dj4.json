@@ -23,7 +23,7 @@
           "settings": {
             "heading_size": "hd2",
             "heading_tag": "h1",
-            "show_description": false,
+            "show_description": true,
             "padding_top": 0,
             "padding_bottom": 0
           }
@@ -34,8 +34,8 @@
       ],
       "custom_css": [],
       "settings": {
-        "color_scheme": "scheme-inverse",
-        "image_overlay_opacity": 10,
+        "color_scheme": "scheme-1",
+        "image_overlay_opacity": 0,
         "image_position": "as-bg",
         "image_height": "extra-small",
         "text_alignment": "center",
@@ -50,17 +50,204 @@
       "type": "main-collection-product-grid",
       "custom_css": [],
       "settings": {
-        "color_scheme": "scheme-9",
-        "products_per_page": 16,
-        "columns_desktop": 4,
-        "pagination": "infinite",
+        "color_scheme": "scheme-1",
+        "products_per_page": 8,
+        "columns_desktop": 2,
+        "grid_layout": "standard",
+        "pagination": "number",
         "enable_filtering": true,
-        "filter_type": "drawer",
+        "filter_type": "vertical",
         "enable_sorting": true,
         "expand_filter_groups": "Availability, Price, Color, Size, Product type",
-        "columns_mobile": "2",
-        "padding_top": 0,
-        "padding_bottom": 100,
+        "columns_mobile": "1",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "show_section_divider": true,
+        "divider_width": "fixed"
+      }
+    },
+    "feature_list_rV8FP4": {
+      "type": "feature-list",
+      "blocks": {
+        "feature_item_MTWtEV": {
+          "type": "feature_item",
+          "settings": {
+            "color_scheme": "",
+            "icon": "heart",
+            "icon_style": "btn--primary",
+            "text": "12 Month Warranty"
+          }
+        },
+        "feature_item_LDJgBc": {
+          "type": "feature_item",
+          "settings": {
+            "color_scheme": "",
+            "icon": "currency-circle-dollar",
+            "icon_style": "btn--primary",
+            "text": "Secure Payments"
+          }
+        },
+        "feature_item_r7KTdp": {
+          "type": "feature_item",
+          "settings": {
+            "color_scheme": "",
+            "icon": "certificate",
+            "icon_style": "btn--primary",
+            "text": "Patented Design"
+          }
+        },
+        "feature_item_VEGXHE": {
+          "type": "feature_item",
+          "settings": {
+            "color_scheme": "",
+            "icon": "confetti",
+            "icon_style": "btn--primary",
+            "text": "Award-Winning"
+          }
+        }
+      },
+      "block_order": [
+        "feature_item_MTWtEV",
+        "feature_item_LDJgBc",
+        "feature_item_r7KTdp",
+        "feature_item_VEGXHE"
+      ],
+      "settings": {
+        "color_scheme": "scheme-2",
+        "subheading": "",
+        "heading": "",
+        "heading_size": "h2",
+        "heading_highlight_style": "none",
+        "description": "",
+        "text_size": "text-base",
+        "item_alignment": "center",
+        "icon_size": "extra-medium",
+        "swipe_on_mobile": true,
+        "padding_top": 50,
+        "padding_bottom": 50,
+        "show_section_divider": false,
+        "divider_width": "fixed"
+      }
+    },
+    "video_with_text_fwiEfd": {
+      "type": "video-with-text",
+      "blocks": {
+        "subheading_rp6xGU": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "The Original Door Security Service"
+          }
+        },
+        "heading_afj3zU": {
+          "type": "heading",
+          "settings": {
+            "heading": "EST. 2013",
+            "heading_size": "h1",
+            "heading_highlight_style": "none"
+          }
+        },
+        "text_Jj3m3B": {
+          "type": "text",
+          "settings": {
+            "text": "<p>DoorJammer was the first portable door security device of its kind. It's certified, proven and patented design continues to outperform, creating genuine peace of mind and added security for customer. </p><p>Today, we have sold over 750,000 DoorJammer worldwide, empowering travellers, enhancing home security and protecting students and schools.</p>",
+            "text_size": "text-base"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_rp6xGU",
+        "heading_afj3zU",
+        "text_Jj3m3B"
+      ],
+      "name": "t:sections.video-with-text.name",
+      "settings": {
+        "color_scheme": "scheme-3",
+        "video": "shopify://files/videos/Untitled design (1).mp4",
+        "video_url": "https://www.youtube.com/watch?v=6irfIQp8tp4&t=28s",
+        "video_ratio": "adapt",
+        "description": "",
+        "enable_video_autoplay": false,
+        "enable_video_looping": false,
+        "video_placement": "first",
+        "enable_parallax": false,
+        "parallax_direction": "vertical",
+        "text_alignment": "left",
+        "padding_top": 50,
+        "padding_bottom": 50,
+        "show_section_divider": false,
+        "divider_width": "fixed"
+      }
+    },
+    "multicolumn_QN6iEt": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_CHHt9b": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Lockdown-Install-1_dc85b71a-cdd2-4ca6-93b5-989f22d7e21b.png",
+            "image_width": "full",
+            "title": "1",
+            "heading_size": "h4",
+            "text": "<p>Insert the flat part of DoorJammer Lockdown all the way under the door directly beneath the handle or where the handle would be</p>",
+            "text_size": "text-base",
+            "button_label": "",
+            "button_style": "btn--underline",
+            "button_link": "",
+            "mobile_layout": "inherit"
+          }
+        },
+        "column_FKwtdz": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Lockdown-Install-2_256x256_a67b9c5d-2de2-4e5f-b913-1d17ab801fa2.png",
+            "image_width": "full",
+            "title": "2",
+            "heading_size": "h4",
+            "text": "<p>Twist the screwclockwise to extend the foot until it is firm against the floor</p>",
+            "text_size": "text-base",
+            "button_label": "",
+            "button_style": "btn--underline",
+            "button_link": "",
+            "mobile_layout": "inherit"
+          }
+        },
+        "column_Eb9aPY": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Lockdown-Install-3_0a3496bb-6f75-41de-acb3-99f22cf5e9f3.png",
+            "image_width": "full",
+            "title": "3",
+            "heading_size": "h4",
+            "text": "<p>Pull the handle to check that the door is secure</p>",
+            "text_size": "text-base",
+            "button_label": "",
+            "button_style": "btn--underline",
+            "button_link": "",
+            "mobile_layout": "inherit"
+          }
+        }
+      },
+      "block_order": [
+        "column_CHHt9b",
+        "column_FKwtdz",
+        "column_Eb9aPY"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "color_scheme": "",
+        "heading": "How To Use",
+        "heading_size": "h2",
+        "heading_highlight_style": "none",
+        "subheading": "",
+        "description": "",
+        "text_size": "text-base",
+        "column_alignment": "center",
+        "columns_desktop": 3,
+        "column_gap": "extra-large",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 50,
+        "padding_bottom": 50,
         "show_section_divider": false,
         "divider_width": "fixed"
       }
@@ -69,6 +256,9 @@
   "order": [
     "breadcrumbs_Gxg9wp",
     "banner",
-    "product-grid"
+    "product-grid",
+    "feature_list_rV8FP4",
+    "video_with_text_fwiEfd",
+    "multicolumn_QN6iEt"
   ]
 }
