@@ -963,7 +963,7 @@
             "text_size": "text-base",
             "button_label": "BUY NOW",
             "button_style": "btn--secondary",
-            "button_link": "",
+            "button_link": "shopify://products/doorjammer-portable",
             "mobile_layout": "inherit"
           }
         },
@@ -977,7 +977,7 @@
             "text_size": "text-base",
             "button_label": "BUY NOW",
             "button_style": "btn--secondary",
-            "button_link": "",
+            "button_link": "shopify://products/doorjammer-lockdown",
             "mobile_layout": "inherit"
           }
         },
