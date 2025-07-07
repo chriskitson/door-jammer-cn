@@ -1,10 +1,10 @@
 {% capture countries %}
-https://www.door-jammer.com|USA (America)|$|USD|us,
-https://www.door-jammer.co.uk|UK (United Kingdom)|£|GBP|gb,
-https://www.door-jammer.eu|EU (Europe)|€|EUR|eu,
-https://au.door-jammer.com|AUS (Australia)|$|AUD|au,
-https://ca.door-jammer.com|CAN (Canada)|$|CAD|ca,
-https://cn.door-jammer.com|CN (China)|¥|CNY|cn
+https://doorjammerus.myshopify.com/|USA (America)|$|USD|us,
+https://doorjammeruk.myshopify.com/|UK & ROW (United Kingdom)|£|GBP|gb,
+https://doorjammereu.myshopify.com/|EU (Europe)|€|EUR|eu,
+https://doorjammerau.myshopify.com/|AUS (Australia)|$|AUD|au,
+https://doorjammercan.myshopify.com/|CAN (Canada)|$|CAD|ca,
+https://doorjammercn.myshopify.com/|CN (China)|¥|CNY|cn
 {% endcapture %}
   
 {% assign countries_array = countries | split: "," %}
@@ -28,7 +28,6 @@ https://cn.door-jammer.com|CN (China)|¥|CNY|cn
       {% assign country_flag = country_details[4] %}
       <a href="{{  country_url }}"><img src="https://flagcdn.com/24x18/{{ country_flag }}.png" /> {{ country_name }} <span class="country-selector__option__currency">{{ currency_symbol }} {{ currency_code }}</span></a>
     {% endfor %}
-     <a href="https://www.door-jammer.co.uk"><img src="https://cdn.shopify.com/s/files/1/0861/7928/3292/files/globe.png?v=1731427272" /> Rest of World</a>
   </div>
 </div>
 
